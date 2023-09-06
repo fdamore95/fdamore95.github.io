@@ -6,7 +6,7 @@ nav_order: 3
 
 # Publications
 
- ## Conference papers
+## Conference papers
 
 
 - Title: Brief announcement: Distributed derandomization revisited  
