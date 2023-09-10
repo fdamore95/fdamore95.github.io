@@ -28,7 +28,7 @@ Authors: **F. d'Amore**, D. Mitropolsky, P. Crescenzi, E. Natale, and C. H. Papa
 Conference: AAAI 2022  
 ([Publication link](https://ojs.aaai.org/index.php/AAAI/article/view/19875))  
 ([Preprint link](https://arxiv.org/abs/2112.08186))
-- Title: Search via Parallel Lévy Walks on &#8484;&#x00B2;
+- Title: Search via Parallel Lévy Walks on $\mathbb{Z}^2$  
 Authors: A. Clementi, **F. d'Amore**, G. Giakkoupis, and E. Natale  
 Conference: PODC 2021  
 ([Publication link](https://dl.acm.org/doi/10.1145/3465084.3467921))  
@@ -55,23 +55,23 @@ Journal: Swarm Intelligence 2022
 ## Other Manuscripts 
 
 
-- Title: No distributed quantum advantage for approximate graph coloring
+- Title: No distributed quantum advantage for approximate graph coloring  
 Authors: X. Coiteux-Roy, **F. d'Amore**, R. Gajjala, F. Kuhn, F. Le Gall, H. Lievonen, A. Modanese, M. Renou, G. Schmid, and J. Suomela  
 Other: submitted to conference. 2023.  
 ([Preprint link](https://arxiv.org/abs/2307.09444))
-- Title: Convolutional neural networks contain structured strong lottery tickets
+- Title: Convolutional neural networks contain structured strong lottery tickets  
 Authors: A. da Cunha, **F. d'Amore**, and E. Natale  
 Other: submitted to conference. 2023.  
 ([Preprint link](https://hal.science/hal-04143024))
-- Title: Phase Transition of the 3-Majority Dynamics with Uniform Communication Noise
+- Title: Phase Transition of the 3-Majority Dynamics with Uniform Communication Noise  
 Authors: **F. d'Amore** and I. Ziccardi  
 Other: submitted to journal. 2022.  
 ([Preprint link](https://arxiv.org/abs/2112.03543))
-- Title: On the Collective Behaviors of Bio-Inspired Distributed Systems.
+- Title: On the Collective Behaviors of Bio-Inspired Distributed Systems.  
 Authors: **F. d'Amore**  
 Other: doctoral thesis. 2022.  
 ([Preprint link](https://cnrs.hal.science/tel-03906167/))
-- Title: On the Multidimensional Random Subset Sum Problem
+- Title: On the Multidimensional Random Subset Sum Problem  
 Authors: L. Becchetti, A. Clementi, A. da Cunha, **F. d'Amore**, H. Lesfari, E. Natale, and L. Trevisan  
 Other: unpublished manuscript. 2022.  
 ([Preprint link](https://arxiv.org/abs/2207.13944))
