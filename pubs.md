@@ -28,7 +28,7 @@ Authors: **F. d'Amore**, D. Mitropolsky, P. Crescenzi, E. Natale, and C. H. Papa
 Conference: AAAI 2022  
 ([Publication link](https://ojs.aaai.org/index.php/AAAI/article/view/19875))  
 ([Preprint link](https://arxiv.org/abs/2112.08186))
-- Title: Search via Parallel Lévy Walks on &#8484;&#x00B2  
+- Title: Search via Parallel Lévy Walks on &#8484;&#x00B2;  
 Authors: A. Clementi, **F. d'Amore**, G. Giakkoupis, and E. Natale  
 Conference: PODC 2021  
 ([Publication link](https://dl.acm.org/doi/10.1145/3465084.3467921))  
