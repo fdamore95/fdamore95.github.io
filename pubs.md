@@ -1,14 +1,12 @@
----
-title: Publications
-layout: default
-nav_order: 3
----
-
 # Publications
 
 ## Conference papers
 
 
+- Title: Convolutional neural networks contain structured strong lottery tickets  
+Authors: A. da Cunha, **F. d'Amore**, and E. Natale  
+Conference: To appear in NeurIPS 2023  
+([Preprint link](https://hal.science/hal-04143024))
 - Title: Brief announcement: Distributed derandomization revisited  
 Authors: S. Dahal, **F. d'Amore**, H. Lievonen, T. Picavet, and J. Suomela  
 Conference: To appear in DISC 2023  
@@ -59,10 +57,6 @@ Journal: Swarm Intelligence 2022
 Authors: X. Coiteux-Roy, **F. d'Amore**, R. Gajjala, F. Kuhn, F. Le Gall, H. Lievonen, A. Modanese, M. Renou, G. Schmid, and J. Suomela  
 Other: submitted to conference. 2023.  
 ([Preprint link](https://arxiv.org/abs/2307.09444))
-- Title: Convolutional neural networks contain structured strong lottery tickets  
-Authors: A. da Cunha, **F. d'Amore**, and E. Natale  
-Other: submitted to conference. 2023.  
-([Preprint link](https://hal.science/hal-04143024))
 - Title: Phase Transition of the 3-Majority Dynamics with Uniform Communication Noise  
 Authors: **F. d'Amore** and I. Ziccardi  
 Other: submitted to journal. 2022.  
@@ -75,4 +69,5 @@ Other: doctoral thesis. 2022.
 Authors: L. Becchetti, A. Clementi, A. da Cunha, **F. d'Amore**, H. Lesfari, E. Natale, and L. Trevisan  
 Other: unpublished manuscript. 2022.  
 ([Preprint link](https://arxiv.org/abs/2207.13944))
+
 
