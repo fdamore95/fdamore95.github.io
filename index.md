@@ -3,7 +3,7 @@ title: Homepage
 layout: default
 nav_order: 1
 ---
-# Website of Francesco d'Amore
+# Homepage
 
 <img align="left" src="./mercantour.jpg" alt="Parc national du Mercantour" style="width:300px;"/>
 
