@@ -36,9 +36,9 @@ nav_order: 2
 
 ### Bachelor thesis' supervision
 - February 2023 - May 2023
-  - Joona Jarre, Computer Science student: thesis on *primality testing* and *integer factoring*
-  - Peik Etzel, Computer Science student: thesis on *coordinated robot motion planning*
-  - Linus Jern, Computer Science student: thesis on *population protocols for the consensus problem*
+  - Joona Jarre, Computer Science student (Aalto University): thesis on *primality testing* and *integer factoring*
+  - Peik Etzel, Computer Science student (Aalto University): thesis on *coordinated robot motion planning*
+  - Linus Jern, Computer Science student (Aalto University): thesis on *population protocols for the consensus problem*
 
 ## Teaching
 
