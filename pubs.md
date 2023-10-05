@@ -9,7 +9,8 @@ Conference: To appear in NeurIPS 2023
 ([Preprint link](https://hal.science/hal-04143024))
 - Title: Brief announcement: Distributed derandomization revisited  
 Authors: S. Dahal, **F. d'Amore**, H. Lievonen, T. Picavet, and J. Suomela  
-Conference: To appear in DISC 2023  
+Conference: DISC 2023  
+([Publication link](https://drops.dagstuhl.de/opus/volltexte/2023/19166/))  
 ([Preprint link](https://arxiv.org/abs/2305.07351))
 - Title: Revisiting the Random Subset Sum problem  
 Authors: A. da Cunha, **F. d'Amore**, F. Giroire, H. Lesfari, E. Natale, and L. Viennot  
@@ -69,5 +70,4 @@ Other: doctoral thesis. 2022.
 Authors: L. Becchetti, A. Clementi, A. da Cunha, **F. d'Amore**, H. Lesfari, E. Natale, and L. Trevisan  
 Other: unpublished manuscript. 2022.  
 ([Preprint link](https://arxiv.org/abs/2207.13944))
-
 
