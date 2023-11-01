@@ -26,7 +26,7 @@ nav_order: 2
   - Advisors: [Andrea Clementi](https://www.mat.uniroma2.it/~clementi/), Gustavo Posta
   - 24 ECTS for teaching (partly extracurricular) on pedagogy, psychology, and education
 - 2016, from March to July: Erasmus+ program at Eberhard Karls Universität Tübingen, Germany
-- 2013-2016: B.Sc. in Mathematics, Università di Roma "La Sapienza" - 
+- 2013-2016: B.Sc. in Mathematics, Università di Roma "La Sapienza" 
   - Final evaluation: 110/110 with honors
   - Thesis: Il problema dell'omeomorfismo tra grafi diretti
   - Advisor: Ivano Salvo
