@@ -7,7 +7,7 @@ nav_order: 4
 
 ## 2023
 
-- The Strong Lottery Ticket Hypothesis and the Random Subset Sum Problem, invited talk at RoMaDS, Università di Roma Tor Vergata, Roma (IT). ([slides](https://drive.google.com/file/d/1jrKQQ5tpiz0ixAImWQO276oD-WWxrBtG/view?usp=sharing))
+- The Strong Lottery Ticket Hypothesis and the Random Subset Sum Problem, RoMaDS invited seminar, Università di Roma Tor Vergata, Roma (IT). ([slides](https://drive.google.com/file/d/1jrKQQ5tpiz0ixAImWQO276oD-WWxrBtG/view?usp=sharing))
 
 ## 2022
 
