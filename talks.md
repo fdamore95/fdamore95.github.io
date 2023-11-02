@@ -5,6 +5,10 @@ nav_order: 4
 ---
 # Talks & presentations
 
+## 2023
+
+- The Strong Lottery Ticket Hypothesis and the Random Subset Sum Problem, invited talk at RoMaDS, Università di Roma Tor Vergata, Roma (IT). ([slides](https://drive.google.com/file/d/1jrKQQ5tpiz0ixAImWQO276oD-WWxrBtG/view?usp=sharing))
+
 ## 2022
 
 - On the Collective Behaviors of Bio-Inspired Distributed Systems, PhD defense talk, Inria Sophia Antipolis (FR). ([slides](https://drive.google.com/file/d/1ChaNXR3ia-I-xVMS7aacm9Meisu9fnvf/view?usp=sharing))
