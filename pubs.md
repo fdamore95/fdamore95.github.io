@@ -3,9 +3,10 @@
 ## Conference papers
 
 
-- Title: Convolutional neural networks contain structured strong lottery tickets  
+- Title: Polynomially Over-Parameterized Convolutional Neural Networks Contain Structured Strong Winning Lottery Tickets  	  
 Authors: A. da Cunha, **F. d'Amore**, and E. Natale  
-Conference: To appear in NeurIPS 2023  
+Conference: NeurIPS 2023  
+([Publication link](https://openreview.net/forum?id=UqYrYB3dp5))  
 ([Preprint link](https://hal.science/hal-04143024))
 - Title: Brief announcement: Distributed derandomization revisited  
 Authors: S. Dahal, **F. d'Amore**, H. Lievonen, T. Picavet, and J. Suomela  
