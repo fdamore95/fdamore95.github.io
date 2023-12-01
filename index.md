@@ -7,7 +7,9 @@ nav_order: 1
 
 **Welcome to my website!**
 
-I am Francesco d'Amore, a postdoctoral researcher working in [Jukka Suomela](https://jukkasuomela.fi/)'s team at Aalto University. I got my Ph.D. at Université Côte D'Azur in the [COATI](https://team.inria.fr/coati/) joint project-team between Inria Sophia Antipolis - Méditerranée and the I3S Laboratory, under the supervision of [Emanuele Natale](https://natema.github.io/ema-webpage/) and [Nicolas Nisse](http://www-sop.inria.fr/members/Nicolas.Nisse/) (HDR). 
+I am Francesco d'Amore, a postdoctoral researcher at Bocconi University (Italy), working in professor [Luca Trevisan](https://lucatrevisan.github.io/)'s team.
+Previously, I was working in professor [Jukka Suomela](https://jukkasuomela.fi/)'s team at Aalto University (Finland). 
+I got my Ph.D. at Université Côte D'Azur (France) in the [COATI](https://team.inria.fr/coati/) joint project-team between Inria Sophia Antipolis - Méditerranée and the I3S Laboratory, under the supervision of [Emanuele Natale](https://natema.github.io/ema-webpage/) and [Nicolas Nisse](http://www-sop.inria.fr/members/Nicolas.Nisse/) (HDR). 
 
 ## Research interests
 
