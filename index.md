@@ -28,10 +28,10 @@ From time to time, I enjoy discussing and running statistical tests for projects
 &emsp; Francesco d'Amore  
 &emsp; Postdoctoral researcher
 
-&emsp; Computer Science department, office B314   
-&emsp; Aalto University, Espoo, Finland  
-&emsp; [On the map](https://goo.gl/maps/w7Hzb2kq1hcMzrKh9)
+&emsp; Department of Computing Sciences, office 2-c3-09   
+&emsp; Bocconi University, Milan, Italy 
+&emsp; [On the map](https://maps.app.goo.gl/QWWZPcZBChf3x9BR6)
 
-&emsp; Email: francesco.damore(at)aalto.fi
+&emsp; Email: francesco.damore2(at)unibocconi.it
 
 <br clear="left"/>
