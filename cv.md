@@ -7,7 +7,8 @@ nav_order: 2
 
 ## Positions
 
-- 2022 - ongoing: postdoctoral researcher at Aalto University, working in professor [Jukka Suomela](https://jukkasuomela.fi/)'s team.
+- 2023 - ongoing: postdoctoral researcher at Bocconi University (Italy), working in professor [Luca Trevisan](https://lucatrevisan.github.io/)'s team.
+- 2022 - 2023: postdoctoral researcher at Aalto University (Finland), working in professor [Jukka Suomela](https://jukkasuomela.fi/)'s team.
 
 ## Education
 
