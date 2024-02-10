@@ -52,6 +52,7 @@ nav_order: 2
 
 ## Schools & Workshops
 
+- January 2024: Contributed Talk at Workshop "[Mathematics for AI and Machine Learning](https://dec.unibocconi.eu/mathematics-artificial-intelligence-and-machine-learning)", Bocconi University, Milan, Italy.
 - October 2023: organizer of [WAND](https://sites.google.com/view/wand2023) (Workshop on Analysis of Network Dynamics) at [DISC 2023](http://www.disc-conference.org/wp/disc2023/), GSSI, L'Aquila, Italy.
 - February 2023: Workshop in Distributed Graph Algorithms, Freiburg im Breisgau, Germany.
 - June 2022: [Third Italian Meeting on Probability and Mathematical Statistics](https://site.unibo.it/probstat/en/about-1/general-information) (seminar), Bologna, Italy.
