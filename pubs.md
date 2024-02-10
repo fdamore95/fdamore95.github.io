@@ -3,6 +3,10 @@
 ## Conference papers
 
 
+- Title: No distributed quantum advantage for approximate graph coloring  
+Authors: X. Coiteux-Roy, **F. d'Amore**, R. Gajjala, F. Kuhn, F. Le Gall, H. Lievonen, A. Modanese, M. Renou, G. Schmid, and J. Suomela  
+Conference: To appear in STOC 2024  
+([Preprint link](https://arxiv.org/abs/2307.09444))
 - Title: Polynomially Over-Parameterized Convolutional Neural Networks Contain Structured Strong Winning Lottery Tickets  	  
 Authors: A. da Cunha, **F. d'Amore**, and E. Natale  
 Conference: NeurIPS 2023  
@@ -55,10 +59,6 @@ Journal: Swarm Intelligence 2022
 ## Other Manuscripts 
 
 
-- Title: No distributed quantum advantage for approximate graph coloring  
-Authors: X. Coiteux-Roy, **F. d'Amore**, R. Gajjala, F. Kuhn, F. Le Gall, H. Lievonen, A. Modanese, M. Renou, G. Schmid, and J. Suomela  
-Other: submitted to conference. 2023.  
-([Preprint link](https://arxiv.org/abs/2307.09444))
 - Title: Phase Transition of the 3-Majority Dynamics with Uniform Communication Noise  
 Authors: **F. d'Amore** and I. Ziccardi  
 Other: submitted to journal. 2022.  
