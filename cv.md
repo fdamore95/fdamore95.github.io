@@ -65,6 +65,7 @@ nav_order: 2
 
 - 2024
   - STOC
+  - Distributed Computing
 - 2023
   - PODC
   - Distributed Computing

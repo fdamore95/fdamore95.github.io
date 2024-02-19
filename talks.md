@@ -5,9 +5,13 @@ nav_order: 4
 ---
 # Talks & presentations
 
-## 2023
+## 2024
 
 - On Structured Pruning in the Strong Lottery Ticket Hypothesis via Multidimensional Random Subset Sum, Contributed Talk at Workshop "Mathematics for AI and Machine Learning", Bocconi University, Milan (IT). ([slides](https://bocconi-my.sharepoint.com/personal/elisur_magrini_unibocconi_it/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Felisur%5Fmagrini%5Funibocconi%5Fit%2FDocuments%2FEVENTI%2FMathematics%20for%20AI%20and%20ML%2FWebsite%2FSlide%20Workshop%20Mathematics%20for%20AI%20and%20ML%20%2D%2017%2D19%20January%2024%2FContributed%20Talks%2FD%27Amore%20Francesco%2Epdf&parent=%2Fpersonal%2Felisur%5Fmagrini%5Funibocconi%5Fit%2FDocuments%2FEVENTI%2FMathematics%20for%20AI%20and%20ML%2FWebsite%2FSlide%20Workshop%20Mathematics%20for%20AI%20and%20ML%20%2D%2017%2D19%20January%2024%2FContributed%20Talks))
+
+## 2023
+
+- Polynomially Over-Parameterized Convolutional Neural Networks Contain Structured Strong Winning Lottery Tickets, poster presentation at NeurIPS 2023, New Orleans (US). ([poster](https://neurips.cc/media/PosterPDFs/NeurIPS%202023/71487.png?t=1699528090.321876))
 - Causal limits of distributed computation, BIDSA seminar, Bocconi University, Milan (IT). ([slides](https://drive.google.com/file/d/1tvL4cYt5sTGnQmwMn3AGu_FdfYZySw02/view?usp=sharing))
 - The Strong Lottery Ticket Hypothesis and the Random Subset Sum Problem, Aalto theory seminar, Aalto University, Espoo (FI). ([slides](https://drive.google.com/file/d/1jrKQQ5tpiz0ixAImWQO276oD-WWxrBtG/view?usp=sharing))
 - The Strong Lottery Ticket Hypothesis and the Random Subset Sum Problem, RoMaDS invited seminar, Università di Roma Tor Vergata, Roma (IT). 
