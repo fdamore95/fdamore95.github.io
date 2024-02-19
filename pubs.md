@@ -10,7 +10,7 @@ Conference: To appear in STOC 2024
 - Title: Polynomially Over-Parameterized Convolutional Neural Networks Contain Structured Strong Winning Lottery Tickets  	  
 Authors: A. da Cunha, **F. d'Amore**, and E. Natale  
 Conference: NeurIPS 2023  
-([Publication link](https://openreview.net/forum?id=UqYrYB3dp5))  
+([Publication link](https://papers.nips.cc/paper_files/paper/2023/hash/525338e0d98401a62950bc7c454eb83d-Abstract-Conference.html))  
 ([Preprint link](https://hal.science/hal-04143024))
 - Title: Brief announcement: Distributed derandomization revisited  
 Authors: S. Dahal, **F. d'Amore**, H. Lievonen, T. Picavet, and J. Suomela  
