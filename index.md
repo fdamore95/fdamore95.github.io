@@ -28,7 +28,7 @@ From time to time, I enjoy discussing and running statistical tests for projects
 &emsp; Francesco d'Amore  
 &emsp; Postdoctoral researcher
 
-&emsp; Department of Computing Sciences, office 2-c3-09   
+&emsp; Department of Computing Sciences, office 4-a3-03   
 &emsp; Bocconi University, Milan, Italy 
 &emsp; [On the map](https://maps.app.goo.gl/QWWZPcZBChf3x9BR6)
 
