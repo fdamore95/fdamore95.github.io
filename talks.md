@@ -7,7 +7,7 @@ nav_order: 4
 
 ## 2024
 
-- On Structured Pruning in the Strong Lottery Ticket Hypothesis via Multidimensional Random Subset Sum, Contributed Talk at Workshop "Mathematics for AI and Machine Learning", Bocconi University, Milan (IT). ([slides](https://bocconi-my.sharepoint.com/personal/elisur_magrini_unibocconi_it/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Felisur%5Fmagrini%5Funibocconi%5Fit%2FDocuments%2FEVENTI%2FMathematics%20for%20AI%20and%20ML%2FWebsite%2FSlide%20Workshop%20Mathematics%20for%20AI%20and%20ML%20%2D%2017%2D19%20January%2024%2FContributed%20Talks%2FD%27Amore%20Francesco%2Epdf&parent=%2Fpersonal%2Felisur%5Fmagrini%5Funibocconi%5Fit%2FDocuments%2FEVENTI%2FMathematics%20for%20AI%20and%20ML%2FWebsite%2FSlide%20Workshop%20Mathematics%20for%20AI%20and%20ML%20%2D%2017%2D19%20January%2024%2FContributed%20Talks))
+- On Structured Pruning in the Strong Lottery Ticket Hypothesis via Multidimensional Random Subset Sum, Contributed Talk at Workshop "Mathematics for AI and Machine Learning", Bocconi University, Milan (IT). ([slides](https://drive.google.com/file/d/1adkSxTuNYPxugIQQUHeXCBWD3jQj3Obg/view?usp=sharing))
 
 ## 2023
 
