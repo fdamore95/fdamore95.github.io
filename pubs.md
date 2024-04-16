@@ -3,6 +3,10 @@
 ## Conference papers
 
 
+- Title: **No distributed quantum advantage for approximate graph coloring**  
+Authors: X. Coiteux-Roy, **F. d'Amore**, R. Gajjala, F. Kuhn, F. Le Gall, H. Lievonen, A. Modanese, M. Renou, G. Schmid, and J. Suomela  
+Conference: To appear in STOC 2024  
+([Preprint link](https://arxiv.org/abs/2307.09444))
 - Title: **Online Locality Meets Distributed Quantum Computing**  
 Authors: A. Akbari, X. Coiteux-Roy, **F. d'Amore**, F. Le Gall, H. Lievonen, D. Melnyk, A. Modanese, S. Pai, M. Renou, V. Rozhoň, and J. Suomela  
 Conference: To appear in TQC (talk only track) 2024  
@@ -10,10 +14,6 @@ Conference: To appear in TQC (talk only track) 2024
 - Title: **No distributed quantum advantage for approximate graph coloring**  
 Authors: X. Coiteux-Roy, **F. d'Amore**, R. Gajjala, F. Kuhn, F. Le Gall, H. Lievonen, A. Modanese, M. Renou, G. Schmid, and J. Suomela  
 Conference: To appear in TQC (talk only track) 2024  
-([Preprint link](https://arxiv.org/abs/2307.09444))
-- Title: **No distributed quantum advantage for approximate graph coloring**  
-Authors: X. Coiteux-Roy, **F. d'Amore**, R. Gajjala, F. Kuhn, F. Le Gall, H. Lievonen, A. Modanese, M. Renou, G. Schmid, and J. Suomela  
-Conference: To appear in STOC 2024  
 ([Preprint link](https://arxiv.org/abs/2307.09444))
 - Title: **Polynomially Over-Parameterized Convolutional Neural Networks Contain Structured Strong Winning Lottery Tickets**  
 Authors: A. da Cunha, **F. d'Amore**, and E. Natale  
