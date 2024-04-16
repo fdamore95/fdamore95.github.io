@@ -3,6 +3,14 @@
 ## Conference papers
 
 
+- Title: **Online Locality Meets Distributed Quantum Computing**  
+Authors: A. Akbari, X. Coiteux-Roy, **F. d'Amore**, F. Le Gall, H. Lievonen, D. Melnyk, A. Modanese, S. Pai, M. Renou, V. Rozhoň, and J. Suomela  
+Conference: To appear in TQC (talk only track) 2024  
+([Preprint link](https://arxiv.org/abs/2403.01903))
+- Title: **No distributed quantum advantage for approximate graph coloring**  
+Authors: X. Coiteux-Roy, **F. d'Amore**, R. Gajjala, F. Kuhn, F. Le Gall, H. Lievonen, A. Modanese, M. Renou, G. Schmid, and J. Suomela  
+Conference: To appear in TQC (talk only track) 2024  
+([Preprint link](https://arxiv.org/abs/2307.09444))
 - Title: **No distributed quantum advantage for approximate graph coloring**  
 Authors: X. Coiteux-Roy, **F. d'Amore**, R. Gajjala, F. Kuhn, F. Le Gall, H. Lievonen, A. Modanese, M. Renou, G. Schmid, and J. Suomela  
 Conference: To appear in STOC 2024  
@@ -59,15 +67,11 @@ Journal: Swarm Intelligence 2022
 ## Other Manuscripts 
 
 
-- Title: **Online Locality Meets Distributed Quantum Computing**  
-Authors: A. Akbari, X. Coiteux-Roy, **F. d'Amore**, F. Le Gall, H. Lievonen, D. Melnyk, A. Modanese, S. Pai, M. Renou, V. Rozhoň, and J. Suomela  
-Other: Submitted to conference. 2024.  
-([Preprint link](https://arxiv.org/abs/2403.01903))
 - Title: **Phase Transition of the 3-Majority Dynamics with Uniform Communication Noise**  
 Authors: **F. d'Amore** and I. Ziccardi  
-Other: Under minor revision at Theoretical Computer Science. 2022.  
+Other: Under minor revision at Theoretical Computer Science. 2024.  
 ([Preprint link](https://arxiv.org/abs/2112.03543))
-- Title: **On the Collective Behaviors of Bio-Inspired Distributed Systems.**  
+- Title: **On the Collective Behaviors of Bio-Inspired Distributed Systems**  
 Authors: **F. d'Amore**  
 Other: Doctoral thesis. 2022.  
 ([Preprint link](https://cnrs.hal.science/tel-03906167/))
@@ -75,5 +79,4 @@ Other: Doctoral thesis. 2022.
 Authors: L. Becchetti, A. Clementi, A. da Cunha, **F. d'Amore**, H. Lesfari, E. Natale, and L. Trevisan  
 Other: Unpublished manuscript. 2022.  
 ([Preprint link](https://arxiv.org/abs/2207.13944))
-
 
