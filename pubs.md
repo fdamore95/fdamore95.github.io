@@ -1,3 +1,8 @@
+---
+title: Publications
+layout: default
+nav_order: 3
+---
 # Publications
 
 ## Conference papers
@@ -61,7 +66,7 @@ Journal: Swarm Intelligence 2022
 
 - Title: **Online Locality Meets Distributed Quantum Computing**  
 Authors: A. Akbari, X. Coiteux-Roy, **F. d'Amore**, F. Le Gall, H. Lievonen, D. Melnyk, A. Modanese, S. Pai, M. Renou, V. Rozhoň, and J. Suomela  
-Other: Accepted in the talk only track of TQC. 2024.  
+Other: Submited to conference. 2024.  
 ([Preprint link](https://arxiv.org/abs/2403.01903))
 - Title: **No distributed quantum advantage for approximate graph coloring**  
 Authors: X. Coiteux-Roy, **F. d'Amore**, R. Gajjala, F. Kuhn, F. Le Gall, H. Lievonen, A. Modanese, M. Renou, G. Schmid, and J. Suomela  
@@ -79,4 +84,5 @@ Other: Doctoral thesis. 2022.
 Authors: L. Becchetti, A. Clementi, A. da Cunha, **F. d'Amore**, H. Lesfari, E. Natale, and L. Trevisan  
 Other: Unpublished manuscript. 2022.  
 ([Preprint link](https://arxiv.org/abs/2207.13944))
+
 
