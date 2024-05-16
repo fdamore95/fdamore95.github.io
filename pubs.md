@@ -5,6 +5,9 @@ nav_order: 3
 ---
 # Publications
 
+Below there is a list of my publications. 
+You can also check my ([DBLP page](https://dblp.org/pid/237/7510-1.html)), or my ([Google Scholar page](https://scholar.google.com/citations?user=0I0zakAAAAAJ&hl=it)).
+
 ## Conference papers
 
 
