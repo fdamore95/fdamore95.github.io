@@ -3,7 +3,6 @@ title: Publications
 layout: default
 nav_order: 3
 ---
-
 # Publications
 
 ## Conference papers
@@ -11,7 +10,8 @@ nav_order: 3
 
 - Title: **No distributed quantum advantage for approximate graph coloring**  
 Authors: X. Coiteux-Roy, **F. d'Amore**, [R. Gajjala](https://sites.google.com/view/gajjala), [F. Kuhn](https://ac.informatik.uni-freiburg.de/kuhn/), [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [M. Renou](https://marcolivierrenou.com/), G. Schmid, [J. Suomela](https://jukkasuomela.fi/)  
-Conference: To appear in STOC 2024  
+Conference: STOC 2024  
+([Publication link](https://dl.acm.org/doi/10.1145/3618260.3649679))  
 ([Preprint link](https://arxiv.org/abs/2307.09444))
 - Title: **Polynomially Over-Parameterized Convolutional Neural Networks Contain Structured Strong Winning Lottery Tickets**  
 Authors: [A. Da Cunha](https://arthurwalraven.github.io/), **F. d'Amore**, [E. Natale](https://natema.github.io/ema-webpage/)  
