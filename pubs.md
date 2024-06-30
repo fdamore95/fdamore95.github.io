@@ -11,6 +11,7 @@ nav_order: 3
 - Title: **No distributed quantum advantage for approximate graph coloring**  
 Authors: X. Coiteux-Roy, **F. d'Amore**, [R. Gajjala](https://sites.google.com/view/gajjala), [F. Kuhn](https://ac.informatik.uni-freiburg.de/kuhn/), [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [M. Renou](https://marcolivierrenou.com/), G. Schmid, [J. Suomela](https://jukkasuomela.fi/)  
 Conference: STOC 2024  
+Other: TQC 2024 and HALG 2024  
 ([Publication link](https://dl.acm.org/doi/10.1145/3618260.3649679))  
 ([Preprint link](https://arxiv.org/abs/2307.09444))
 - Title: **Polynomially Over-Parameterized Convolutional Neural Networks Contain Structured Strong Winning Lottery Tickets**  
@@ -56,7 +57,7 @@ Conference: SIROCCO 2020
 
 - Title: **Phase transition of a nonlinear opinion dynamics with noisy interactions**  
 Authors: **F. d'Amore**, [A. Clementi](https://www.mat.uniroma2.it/~clementi/), [E. Natale](https://natema.github.io/ema-webpage/)  
-Journal: Swarm Intelligence 2022  
+Journal: Swarm Intelligence, 2022  
 ([Publication link](https://link.springer.com/article/10.1007/s11721-022-00217-w))  
 ([Preprint link](https://arxiv.org/abs/2005.07423))
 
@@ -65,24 +66,20 @@ Journal: Swarm Intelligence 2022
 ## Other Manuscripts 
 
 
+- Title: **On the Multidimensional Random Subset Sum Problem**  
+Authors: [L. Becchetti](https://www.diag.uniroma1.it/~becchett/), [A. Clementi](https://www.mat.uniroma2.it/~clementi/), [A. Da Cunha](https://arthurwalraven.github.io/), **F. d'Amore**, H. Lesfari, [E. Natale](https://natema.github.io/ema-webpage/), [L. Trevisan](https://lucatrevisan.github.io/)  
+Other: Submitted in 2024.   
+([Preprint link](https://arxiv.org/abs/2207.13944))
 - Title: **Online Locality Meets Distributed Quantum Computing**  
 Authors: A. Akbari, X. Coiteux-Roy, **F. d'Amore**, [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [D. Melnyk](https://darya-melnyk.github.io/), [A. Modanese](https://augusto.modanese.net/), S. Pai, [M. Renou](https://marcolivierrenou.com/), [V. Rozhoň](https://n.ethz.ch/~rozhonv/), [J. Suomela](https://jukkasuomela.fi/)  
-Other: Accepted in the talk only track of TQC. 2024.  
+Other: TQC 2024.   
 ([Preprint link](https://arxiv.org/abs/2403.01903))
-- Title: **No distributed quantum advantage for approximate graph coloring**  
-Authors: X. Coiteux-Roy, **F. d'Amore**, [R. Gajjala](https://sites.google.com/view/gajjala), [F. Kuhn](https://ac.informatik.uni-freiburg.de/kuhn/), [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [M. Renou](https://marcolivierrenou.com/), G. Schmid, [J. Suomela](https://jukkasuomela.fi/)  
-Other: Accepted in the talk only track of TQC. 2024.  
-([Preprint link](https://arxiv.org/abs/2307.09444))
 - Title: **Phase Transition of the 3-Majority Dynamics with Uniform Communication Noise**  
 Authors: **F. d'Amore**, [I. Ziccardi](https://sites.google.com/view/isabellaziccardi/)  
-Other: Under minor revision at Theoretical Computer Science. 2024.  
+Other: Under revision at TCS (as of 2024).   
 ([Preprint link](https://arxiv.org/abs/2112.03543))
 - Title: **On the Collective Behaviors of Bio-Inspired Distributed Systems**  
 Authors: **F. d'Amore**  
-Other: Doctoral thesis. 2022.  
+Other: Doctoral thesis, 2022.   
 ([Preprint link](https://cnrs.hal.science/tel-03906167/))
-- Title: **On the Multidimensional Random Subset Sum Problem**  
-Authors: [L. Becchetti](https://www.diag.uniroma1.it/~becchett/), [A. Clementi](https://www.mat.uniroma2.it/~clementi/), [A. Da Cunha](https://arthurwalraven.github.io/), **F. d'Amore**, H. Lesfari, [E. Natale](https://natema.github.io/ema-webpage/), [L. Trevisan](https://lucatrevisan.github.io/)  
-Other: Unpublished manuscript. 2022.  
-([Preprint link](https://arxiv.org/abs/2207.13944))
 
