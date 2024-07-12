@@ -68,15 +68,15 @@ Journal: Swarm Intelligence, 2022
 
 - Title: **On the Multidimensional Random Subset Sum Problem**  
 Authors: [L. Becchetti](https://www.diag.uniroma1.it/~becchett/), [A. Clementi](https://www.mat.uniroma2.it/~clementi/), [A. Da Cunha](https://arthurwalraven.github.io/), **F. d'Amore**, H. Lesfari, [E. Natale](https://natema.github.io/ema-webpage/), [L. Trevisan](https://lucatrevisan.github.io/)  
-Other: Submitted in 2024.   
+Other: Under submission (as of 2024).   
 ([Preprint link](https://arxiv.org/abs/2207.13944))
 - Title: **Online Locality Meets Distributed Quantum Computing**  
 Authors: A. Akbari, X. Coiteux-Roy, **F. d'Amore**, [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [D. Melnyk](https://darya-melnyk.github.io/), [A. Modanese](https://augusto.modanese.net/), S. Pai, [M. Renou](https://marcolivierrenou.com/), [V. Rozhoň](https://n.ethz.ch/~rozhonv/), [J. Suomela](https://jukkasuomela.fi/)  
-Other: TQC 2024.   
+Other: Under submission (as of 2024). This work appeared also at TQC 2024.   
 ([Preprint link](https://arxiv.org/abs/2403.01903))
 - Title: **Phase Transition of the 3-Majority Dynamics with Uniform Communication Noise**  
 Authors: **F. d'Amore**, [I. Ziccardi](https://sites.google.com/view/isabellaziccardi/)  
-Other: Under revision at TCS (as of 2024).   
+Other: Under minor revision at TCS (as of 2024).   
 ([Preprint link](https://arxiv.org/abs/2112.03543))
 - Title: **On the Collective Behaviors of Bio-Inspired Distributed Systems**  
 Authors: **F. d'Amore**  
