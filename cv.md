@@ -43,7 +43,8 @@ nav_order: 2
 
 ## Teaching
 
-- February - April 2022: teaching practicum (56 hours) for the database course (PL/SQL) at Institut Universitaire de Technologie, Université Côte d'Azur
+- July 2024: Ph.D. course on causal limits of distributed quantum computation (6 hours) at Gran Sasso Science Institute (GSSI), L'Aquila, Italy.
+- February - April 2022: teaching practicum (56 hours) for the database course (PL/SQL) at Institut Universitaire de Technologie, Université Côte d'Azur, Nice, France.
 
 ## Awards, Grants, Scolarships, etc.
 
