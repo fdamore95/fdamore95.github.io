@@ -7,7 +7,7 @@ nav_order: 4
 
 ## 2024
 
--  No Distributed Quantum Advantage for Approximate Graph Coloring, paper presentation at STOC 2024, Vancouver (CA). ([slides](https://drive.google.com/file/d/1wAUFZeghfWZqSxaM9wkrBl2SRB1hu95K/view?usp=sharing))
+-  No Distributed Quantum Advantage for Approximate Graph Coloring, paper presentation at STOC 2024, Vancouver (CA). ([slides](https://drive.google.com/file/d/1wAUFZeghfWZqSxaM9wkrBl2SRB1hu95K/view?usp=sharing)) ([video](https://www.youtube.com/watch?v=BfuyjNj_aKs&t=647s))
 - The Strong Lottery Ticket Hypothesis and the Random Subset Sum Problem, invited talk at Workshop ["Kolmogorov Meets Turing"](https://sites.google.com/uniroma1.it/kmt-2024), University of Rome "La Sapienza", Rome (IT). 
 - On Structured Pruning in the Strong Lottery Ticket Hypothesis via Multidimensional Random Subset Sum, Contributed Talk at Workshop ["Mathematics for AI and Machine Learning"](https://dec.unibocconi.eu/mathematics-artificial-intelligence-and-machine-learning), Bocconi University, Milan (IT). ([slides](https://drive.google.com/file/d/1adkSxTuNYPxugIQQUHeXCBWD3jQj3Obg/view?usp=sharing))
 
