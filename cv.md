@@ -64,10 +64,13 @@ nav_order: 2
 
 ## Reviews
 
+Summatizing activity as reviewer and subreviewer.
+
 - 2024
   - FORC
   - STOC
   - Distributed Computing
+  - SICOMP
 - 2023
   - PODC
   - Distributed Computing
