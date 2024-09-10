@@ -18,7 +18,7 @@ I got my Ph.D. at Université Côte D'Azur (France) in the [COATI](https://team.
 &emsp; Francesco d'Amore  
 &emsp; Postdoctoral researcher
 
-&emsp; Department of Computing Sciences, office 4-a3-03   
+&emsp; Department of Computing Sciences, office 2-c2-06   
 &emsp; Bocconi University, Milan, Italy 
 &emsp; [On the map](https://maps.app.goo.gl/QWWZPcZBChf3x9BR6)
 
