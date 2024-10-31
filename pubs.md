@@ -9,7 +9,7 @@ nav_order: 3
 
 
 - **Title**: *<span style="color:DarkGreen">No distributed quantum advantage for approximate graph coloring</span>*  
-**Authors**: X. Coiteux-Roy, <span style="color:Red">F. d'Amore</span>, [R. Gajjala](https://sites.google.com/view/gajjala), [F. Kuhn](https://ac.informatik.uni-freiburg.de/kuhn/), [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [M. Renou](https://marcolivierrenou.com/), G. Schmid, [J. Suomela](https://jukkasuomela.fi/)  
+**Authors**: X. Coiteux-Roy, <span style="color:Red">F. d'Amore</span>, [R. Gajjala](https://sites.google.com/view/gajjala), [F. Kuhn](https://ac.informatik.uni-freiburg.de/kuhn/), [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [M. Renou](https://marcolivierrenou.com/), [G. Schmid](https://ac.informatik.uni-freiburg.de/schmid/), [J. Suomela](https://jukkasuomela.fi/)  
 **Conference**: STOC 2024  
 **Other**: TQC 2024 and HALG 2024  
 ([Publication link](https://dl.acm.org/doi/10.1145/3618260.3649679))  
@@ -71,7 +71,7 @@ nav_order: 3
 **Other**: Under submission (as of 2024)  
 ([Preprint link](https://arxiv.org/abs/2207.13944))
 - **Title**: *<span style="color:DarkGreen">Online Locality Meets Distributed Quantum Computing</span>*  
-**Authors**: A. Akbari, X. Coiteux-Roy, <span style="color:Red">F. d'Amore</span>, [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [D. Melnyk](https://darya-melnyk.github.io/), [A. Modanese](https://augusto.modanese.net/), S. Pai, [M. Renou](https://marcolivierrenou.com/), [V. Rozhoň](https://n.ethz.ch/~rozhonv/), [J. Suomela](https://jukkasuomela.fi/)  
+**Authors**: A. Akbari, X. Coiteux-Roy, <span style="color:Red">F. d'Amore</span>, [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [D. Melnyk](https://darya-melnyk.github.io/), [A. Modanese](https://augusto.modanese.net/), [S. Pai](https://shreyaspai.com/), [M. Renou](https://marcolivierrenou.com/), [V. Rozhoň](https://n.ethz.ch/~rozhonv/), [J. Suomela](https://jukkasuomela.fi/)  
 **Other**: Under submission (as of 2024). This work appeared also at TQC 2024  
 ([Preprint link](https://arxiv.org/abs/2403.01903))
 - **Title**: *<span style="color:DarkGreen">Phase Transition of the 3-Majority Dynamics with Uniform Communication Noise</span>*  
