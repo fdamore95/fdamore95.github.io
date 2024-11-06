@@ -66,6 +66,10 @@ nav_order: 3
 ## Other Manuscripts 
 
 
+- **Title**: *<span style="color:DarkGreen">Distributed Quantum Advantage for Local Problems</span>*  
+**Authors**: [A. Balliu](https://alkida.net/), [S. Brandt](https://scbrandt.github.io/), X. Coiteux-Roy, <span style="color:Red">F. d'Amore</span>, [M. Equi](https://massimoequi.github.io/), [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [D. Olivetti](https://ac.informatik.uni-freiburg.de/olivetti/), [M. Renou](https://marcolivierrenou.com/), [J. Suomela](https://jukkasuomela.fi/), L. Tendick, I. Veeren  
+**Other**: Under submission (as of 2024)  
+([Preprint link](https://arxiv.org/abs/2411.03240))
 - **Title**: *<span style="color:DarkGreen">On the Multidimensional Random Subset Sum Problem</span>*  
 **Authors**: [L. Becchetti](https://www.diag.uniroma1.it/~becchett/), [A. Clementi](https://www.mat.uniroma2.it/~clementi/), [A. Da Cunha](https://arthurwalraven.github.io/), <span style="color:Red">F. d'Amore</span>, H. Lesfari, [E. Natale](https://natema.github.io/ema-webpage/), [L. Trevisan](https://lucatrevisan.github.io/)  
 **Other**: Under submission (as of 2024)  
