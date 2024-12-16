@@ -1,7 +1,1 @@
----
-layout: default
-title: 404
-nav_exclude: true
----
-# fdamore95.github.io
-My personal website
+This is my personal website. Credits to [Vecteezy](https://www.vecteezy.com/) for the logo image.
