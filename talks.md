@@ -63,5 +63,3 @@ nav_order: 4
 - **Search via Parallel Lévy Walks on ℤ²**  
   Poster at [HALG 2022](https://www.lse.ac.uk/HALG-2022), London, UK.  
   [Poster](https://drive.google.com/file/d/1XVYk4LQD_uw-mDsmVqv_Sqs8eFaolWSS/view?usp=sharing)
-
----
