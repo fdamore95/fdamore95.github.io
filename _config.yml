@@ -14,7 +14,7 @@ back_to_top: true  # Adds a 'Back to top' button at the bottom of the page
 back_to_top_text: "Back to top"  # Customize the text for the 'Back to top' button
 
 # Private color schemers
-color_scheme: vintage
+color_scheme: arctic
 
 # GitHub Edit Link (Footer Option)
 gh_edit_link: true  # Show 'Edit this page on GitHub' link in the footer
