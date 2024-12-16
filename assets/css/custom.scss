@@ -10,3 +10,17 @@
   .button:hover {
     background-color: #80cbc4;
   }
+
+  /* Adjust the logo container */
+header .site-logo {
+  height: 150px; /* Increase the height of the container */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Adjust the logo size */
+header .site-logo img {
+  max-height: 120px; /* Increase the logo size */
+  width: auto; /* Maintain aspect ratio */
+}
