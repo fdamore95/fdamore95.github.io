@@ -8,30 +8,30 @@ nav_order: 2
 
 ## Positions
 
-- **2023 - ongoing**: Postdoctoral researcher at **Bocconi University** (Italy), working in professor [Luca Trevisan](https://lucatrevisan.github.io/)'s team.
-- **2022 - 2023**: Postdoctoral researcher at **Aalto University** (Finland), working in professor [Jukka Suomela](https://jukkasuomela.fi/)'s team.
+- **2023 - ongoing**: Postdoctoral researcher at Bocconi University (Italy), working in professor [Luca Trevisan](https://lucatrevisan.github.io/)'s team.
+- **2022 - 2023**: Postdoctoral researcher at Aalto University (Finland), working in professor [Jukka Suomela](https://jukkasuomela.fi/)'s team.
 
 ---
 
 ## Education
 
-- **2019 - 2022**: Ph.D. in Computer Science at **Inria** & **Université Côte D'Azur**  
+- **2019 - 2022**: Ph.D. in Computer Science at Inria & Université Côte D'Azur  
   - **Thesis Project**: *On the Collective Behaviors of Bio-inspired Distributed Systems* ([Manuscript](https://hal.science/tel-03906167))  
   - **Supervisors**: [Emanuele Natale](https://natema.github.io/ema-webpage/) and [Nicolas Nisse](http://www-sop.inria.fr/members/Nicolas.Nisse/)
   - **Visits**:
-    - **September 2022**: Visiting Ph.D. student at **Aalto University**, working with professor [Jukka Suomela](https://jukkasuomela.fi/).
-    - **May 2022**: Visiting Ph.D. student at **Inria Rennes**, working with [George Giakkoupis](https://sites.google.com/site/ggiakk/home).
-    - **December 2021**: Visiting Ph.D. student at **Università di Roma \"Tor Vergata\"**, working with [Andrea Clementi](https://www.mat.uniroma2.it/~clementi/).
-    - **June 2021**: Visiting Ph.D. student at **Gran Sasso Science Institute**, working with [Pierluigi Crescenzi](https://www.pilucrescenzi.it/).
-    - **October 2019 - January 2020**: Visiting Ph.D. student at **Università di Roma \"Tor Vergata\"**, working with [Andrea Clementi](https://www.mat.uniroma2.it/~clementi/).
+    - **September 2022**: Visiting Ph.D. student at Aalto University, working with professor [Jukka Suomela](https://jukkasuomela.fi/).
+    - **May 2022**: Visiting Ph.D. student at Inria Rennes, working with [George Giakkoupis](https://sites.google.com/site/ggiakk/home).
+    - **December 2021**: Visiting Ph.D. student at Università di Roma \"Tor Vergata\", working with [Andrea Clementi](https://www.mat.uniroma2.it/~clementi/).
+    - **June 2021**: Visiting Ph.D. student at Gran Sasso Science Institute, working with [Pierluigi Crescenzi](https://www.pilucrescenzi.it/).
+    - **October 2019 - January 2020**: Visiting Ph.D. student at Università di Roma \"Tor Vergata\", working with [Andrea Clementi](https://www.mat.uniroma2.it/~clementi/).
 
-- **2016 - 2019**: M.Sc. in Mathematics for Applications, **Università di Roma \"La Sapienza\"**  
+- **2016 - 2019**: M.Sc. in Mathematics for Applications, Università di Roma \"La Sapienza\"  
   - Final evaluation: 110/110 with honors  
   - Thesis: *On the convergence time of the Undecided-State dynamics with three colors*  
   - Advisors: [Andrea Clementi](https://www.mat.uniroma2.it/~clementi/), Gustavo Posta  
   - 24 ECTS in pedagogy, psychology, and education.
 
-- **2013 - 2016**: B.Sc. in Mathematics, **Università di Roma \"La Sapienza\"**  
+- **2013 - 2016**: B.Sc. in Mathematics, Università di Roma \"La Sapienza\"  
   - Final evaluation: 110/110 with honors  
   - Thesis: *Il problema dell'omeomorfismo tra grafi diretti*  
   - Advisor: Ivano Salvo.
@@ -51,7 +51,7 @@ nav_order: 2
 ## Teaching
 
 - **July 2024**: Ph.D. course on *Causal Limits of Distributed Quantum Computation* (6 hours), Gran Sasso Science Institute (GSSI), L'Aquila, Italy.
-- **February - April 2022**: Teaching practicum (56 hours) for the *Database Course* (PL/SQL) at **Institut Universitaire de Technologie, Université Côte d'Azur**.
+- **February - April 2022**: Teaching practicum (56 hours) for the *Database Course* (PL/SQL) at Institut Universitaire de Technologie, Université Côte d'Azur.
 
 ---
 
