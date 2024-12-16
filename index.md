@@ -13,7 +13,7 @@ I got my Ph.D. at Université Côte D'Azur (France) in the [COATI](https://team.
 
 ## Contact information
 
-<img align="left" src="./mercantour.jpg" alt="Parc national du Mercantour" style="width:200px;"/>
+<img align="left" src="./assets/images/mercantour.jpg" alt="Parc national du Mercantour" style="width:200px;"/>
 
 &emsp; Francesco d'Amore  
 &emsp; Postdoctoral researcher

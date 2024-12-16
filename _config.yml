@@ -1,26 +1,39 @@
-title: Francesco d'Amore # EDIT: Fill this in
-description: This website contains all relevant information about my work. # EDIT: Fill this in
+# Basic Site Information
+title: Francesco d'Amore  # The title of your website (appears in the browser tab and top of the page)
+description: This website contains all relevant information about my work.  # Short description for SEO and meta tags
 
-remote_theme: just-the-docs/just-the-docs # Borrowing the theme from https://github.com/pmarsceill/just-the-docs
-github_repo_url: "https://github.com/fdamore95/fdamore95.github.io" # EDIT: REPLACE WITH THE URL TO YOUR WEBPAGE
+# Theme Configuration
+remote_theme: just-the-docs/just-the-docs  # Theme repository for the site (no need to change if you like this theme)
 
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page. (true or false)
-heading_anchors: true
+# Repository URL
+github_repo_url: "https://github.com/fdamore95/fdamore95.github.io"  # Link to your GitHub repository for easy access
 
-# Activate a "Back to top" link
-back_to_top: true
-back_to_top_text: "Back to top"
+# Navigation Options
+heading_anchors: true  # Enable anchor links for headings (adds deep-linking functionality)
+back_to_top: true  # Adds a 'Back to top' button at the bottom of the page
+back_to_top_text: "Back to top"  # Customize the text for the 'Back to top' button
 
-# A footer with "Edit this page on GitHub" link text
-gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "View this content on GitHub"
-gh_edit_repository: "https://github.com/fdamore95/fdamore95.github.io" # EDIT: ADD THE URL TO YOUR GITHUB REPO
-gh_edit_branch: "master" # the branch that your docs is served from
-# gh_edit_source: docs # the source that your files originate from
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+# GitHub Edit Link (Footer Option)
+gh_edit_link: true  # Show 'Edit this page on GitHub' link in the footer
+gh_edit_link_text: "View this content on GitHub"  # Customize the footer link text
+gh_edit_repository: "https://github.com/fdamore95/fdamore95.github.io"  # Repository URL for editing
+gh_edit_branch: "main"  # The branch your docs are served from (update to 'main' if it's not 'master')
+# gh_edit_source: docs  # Uncomment and specify if your docs are in a subfolder (e.g., "docs/")
+gh_edit_view_mode: "tree"  # Choose 'tree' to show file structure or 'edit' to open the editor directly
 
-# Include plugins for relative links and a remote theme
+# Plugins
 plugins:
-  - jekyll-relative-links
-  - jekyll-remote-theme
+  - jekyll-relative-links  # Enables relative links to work properly
+  - jekyll-remote-theme  # Allows using remote themes
+
+# Additional Customization (Optional)
+search_enabled: true  # Enables a search bar for navigating your site (if supported by the theme)
+search_placeholder: "Search..."  # Customize placeholder text in the search bar
+logo: "/assets/images/logo.png"  # Add a custom logo (optional, specify the path)
+# favicon: "/assets/images/favicon.ico"  # Add a custom favicon (optional, specify the path)
+
+# Theme Customization
+just_the_docs:
+  logo: "/assets/images/logo.png"  # Set the logo to appear in the header (if applicable)
+  color_scheme: dark  # Optional: Use 'light' or 'dark' for the theme's color scheme
+  show_nav: true  # Show the navigation bar on all pages
