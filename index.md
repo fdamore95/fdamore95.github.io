@@ -3,36 +3,47 @@ title: Homepage
 layout: default
 nav_order: 1
 ---
-# Homepage
 
-**Welcome to my website!**
+# Welcome to My Website
 
-I am Francesco d'Amore, a postdoctoral researcher at Bocconi University (Italy), working in professor [Luca Trevisan](https://lucatrevisan.github.io/)'s team.
-Previously, I was working in professor [Jukka Suomela](https://jukkasuomela.fi/)'s team at Aalto University (Finland). 
-I got my Ph.D. at Université Côte D'Azur (France) in the [COATI](https://team.inria.fr/coati/) joint project-team between Inria Sophia Antipolis - Méditerranée and the I3S Laboratory, under the supervision of [Emanuele Natale](https://natema.github.io/ema-webpage/) and [Nicolas Nisse](http://www-sop.inria.fr/members/Nicolas.Nisse/) (HDR). 
+I am **Francesco d'Amore**, a postdoctoral researcher at **Bocconi University** (Italy), working in professor [Luca Trevisan](https://lucatrevisan.github.io/)'s team.  
+Previously, I was working in professor [Jukka Suomela](https://jukkasuomela.fi/)'s team at **Aalto University** (Finland).  
 
-## Contact information
+I earned my Ph.D. at **Université Côte D'Azur** (France) in the [COATI](https://team.inria.fr/coati/) joint project-team between Inria Sophia Antipolis - Méditerranée and the I3S Laboratory. My supervisors were [Emanuele Natale](https://natema.github.io/ema-webpage/) and [Nicolas Nisse](http://www-sop.inria.fr/members/Nicolas.Nisse/) (HDR).
 
-<img align="left" src="./assets/images/mercantour.jpg" alt="Parc national du Mercantour" style="width:200px;"/>
+---
 
-&emsp; Francesco d'Amore  
-&emsp; Postdoctoral researcher
+## Contact Information
 
-&emsp; Department of Computing Sciences, office 2-c2-06   
-&emsp; Bocconi University, Milan, Italy 
-&emsp; [On the map](https://maps.app.goo.gl/QWWZPcZBChf3x9BR6)
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <img src="./assets/images/mercantour.jpg" alt="Parc national du Mercantour" style="width: 180px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  <div>
+    <strong>Francesco d'Amore</strong><br>
+    Postdoctoral Researcher<br>
+    Department of Computing Sciences, office 2-c2-06<br>
+    Bocconi University, Milan, Italy<br>
+    <a href="https://maps.app.goo.gl/QWWZPcZBChf3x9BR6">View on Map</a><br>
+    <strong>Email:</strong> francesco.damore2<span>(at)</span>unibocconi.it
+  </div>
+</div>
 
-&emsp; Email: francesco.damore2(at)unibocconi.it
+---
 
-<br clear="left"/>
+## Research Interests
 
-## Research interests
+My research focuses on **distributed computing**, particularly on **randomized distributed algorithms**.  
 
-My main research area is distributed computing, with a focus on randomized distributed algorithm. I am interested in models of computing either with very few restrictions on the computational power and communication bandwidth (e.g., the LOCAL model) or with strong restrictions (e.g., the GOSSIP model).
+I am interested in two key computing models:
+- **LOCAL model**: Models with minimal restrictions on computational power and communication bandwidth.
+- **GOSSIP model**: Models with strong restrictions.
 
-In the past, I've studied protocols for the consensus problems and algorithms for collaborative search of targets in the space. More recently, I'm investigating whether quantum communication can (or cannot) bring advantage to the LOCAL model.
+### Current Projects
+- Investigating **quantum communication** to explore its potential benefits (or limitations) in the LOCAL model.
+- Developing algorithms for **consensus problems** and **collaborative search** in distributed systems.
 
-As a side research interest, I work in theoretical machine learning and related computational problems. For example, I am studying the Random Subset Sum problem and how it can be used to show that, in many cases, pruning (non-trained) random neural networks is competitive with training.
+### Additional Research
+I also work on **theoretical machine learning** and computational problems. For instance:
+- Studying the **Random Subset Sum Problem** and its applications in understanding the efficiency of pruning (non-trained) neural networks.  
+- Occasionally contributing to statistical analysis in **medicine** and **biology**.
 
-From time to time, I enjoy discussing and running statistical tests for projects related to medicine or biology.
-
+---
