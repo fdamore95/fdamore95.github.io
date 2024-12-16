@@ -34,9 +34,9 @@ logo: "/assets/images/logo.png"  # Add a custom logo (optional, specify the path
 
 # Theme Customization
 just_the_docs:
-  color_scheme: dark  # Use the dark color scheme
+  color_scheme: light  # Options: 'light', 'dark', or custom
   palette:
-    primary: "#80cbc4"  # Aqua Green (links, buttons, and primary elements)
-    accent: "#ffab40"   # Bright Orange (hover effects and focus states)
-    neutral: "#121212"  # Very Dark Gray (background)
-    gray: "#b0bec5"     # Light Gray (text and borders)
+    primary: "#005f73"  # Deep Teal (links, buttons, and primary elements)
+    accent: "#ee9b00"   # Warm Yellow (hover effects and focus states)
+    neutral: "#fefae0"  # Soft Beige (background)
+    gray: "#3a3a3a"     # Dark Gray (text and borders)
