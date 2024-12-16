@@ -22,7 +22,7 @@ I earned my Ph.D. at **Université Côte D'Azur** (France) in the [COATI](https:
     Postdoctoral Researcher<br>
     Department of Computing Sciences, office 2-c2-06<br>
     Bocconi University, Milan, Italy<br>
-    <a href="https://maps.app.goo.gl/QWWZPcZBChf3x9BR6" class="button">View on Map</a><br>
+    <a href="https://maps.app.goo.gl/QWWZPcZBChf3x9BR6">View on Map</a><br>
     <strong>Email:</strong> francesco.damore2<span>(at)</span>unibocconi.it
   </div>
 </div>
