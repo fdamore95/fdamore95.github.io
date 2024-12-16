@@ -15,14 +15,14 @@ I earned my Ph.D. at **Université Côte D'Azur** (France) in the [COATI](https:
 
 ## Contact Information
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
   <img src="./assets/images/mercantour.jpg" alt="Parc national du Mercantour" style="width: 180px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
   <div>
     <strong>Francesco d'Amore</strong><br>
     Postdoctoral Researcher<br>
     Department of Computing Sciences, office 2-c2-06<br>
     Bocconi University, Milan, Italy<br>
-    <a href="https://maps.app.goo.gl/QWWZPcZBChf3x9BR6">View on Map</a><br>
+    <a href="https://maps.app.goo.gl/QWWZPcZBChf3x9BR6" class="button">View on Map</a><br>
     <strong>Email:</strong> francesco.damore2<span>(at)</span>unibocconi.it
   </div>
 </div>
@@ -39,11 +39,13 @@ I am interested in two key computing models:
 
 ### Current Projects
 - Investigating **quantum communication** to explore its potential benefits (or limitations) in the LOCAL model.
-- Developing algorithms for **consensus problems** and **collaborative search** in distributed systems.
+- Developing and/or analyzing algorithms for the **consensus problem** and **collaborative search** in distributed systems.
 
 ### Additional Research
-I also work on **theoretical machine learning** and computational problems. For instance:
+I also work on **theoretical machine learning** and statistics. For instance:
 - Studying the **Random Subset Sum Problem** and its applications in understanding the efficiency of pruning (non-trained) neural networks.  
 - Occasionally contributing to statistical analysis in **medicine** and **biology**.
 
 ---
+
+Thank you for visiting my website! Feel free to reach out if you’d like to collaborate or learn more about my work.

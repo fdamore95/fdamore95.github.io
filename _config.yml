@@ -30,13 +30,16 @@ plugins:
 search_enabled: true  # Enables a search bar for navigating your site (if supported by the theme)
 search_placeholder: "Search..."  # Customize placeholder text in the search bar
 logo: "/assets/images/logo.png"  # Add a custom logo (optional, specify the path)
-# favicon: "/assets/images/favicon.ico"  # Add a custom favicon (optional, specify the path)
+favicon: "/assets/images/favicon.ico"  # Add a custom favicon (optional, specify the path)
 
 # Theme Customization
 just_the_docs:
-  color_scheme: light  # Options: 'light', 'dark', or custom
+  color_scheme: light  # Use 'light' for a bright theme
   palette:
-    primary: "#005f73"  # Deep Teal (links, buttons, and primary elements)
-    accent: "#ee9b00"   # Warm Yellow (hover effects and focus states)
-    neutral: "#fefae0"  # Soft Beige (background)
-    gray: "#3a3a3a"     # Dark Gray (text and borders)
+    primary: "#1E88E5"  # Vibrant Blue for primary elements (links, buttons)
+    accent: "#FFC107"  # Golden Yellow for hover effects and highlights
+    neutral: "#FAFAFA"  # Soft Light Gray for the background
+    gray: "#616161"  # Medium Gray for text and borders
+    success: "#388E3C"  # Green for success highlights (optional)
+    warning: "#FBC02D"  # Yellow for warnings (optional)
+    danger: "#D32F2F"  # Red for errors (optional)
