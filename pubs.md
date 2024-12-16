@@ -7,6 +7,8 @@ nav_order: 3
 
 ## Peer-reviewed papers
 
+<div style="margin-bottom: 2rem;"></div>
+
 
 - **<span style="color:DarkGreen">Phase Transition of the 3-Majority Dynamics with Uniform Communication Noise</span>**  
 <span style="color:Red">F. d'Amore</span>, [I. Ziccardi](https://sites.google.com/view/isabellaziccardi/)  
@@ -79,6 +81,8 @@ S. Dahal, <span style="color:Red">F. d'Amore</span>, [H. Lievonen](https://henri
 
 
 ## Other manuscripts
+
+<div style="margin-bottom: 2rem;"></div>
 
 
 - **<span style="color:DarkGreen">Distributed Quantum Advantage for Local Problems</span>**  
