@@ -13,7 +13,7 @@
 
   /* Adjust the logo container */
 header .site-logo {
-  height: 150px; /* Increase the height of the container */
+  height: 250px; /* Increase the height of the container */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -21,6 +21,6 @@ header .site-logo {
 
 /* Adjust the logo size */
 header .site-logo img {
-  max-height: 120px; /* Increase the logo size */
+  max-height: 220px; /* Increase the logo size */
   width: auto; /* Maintain aspect ratio */
 }
