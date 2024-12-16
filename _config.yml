@@ -34,6 +34,9 @@ logo: "/assets/images/logo.png"  # Add a custom logo (optional, specify the path
 
 # Theme Customization
 just_the_docs:
-  logo: "/assets/images/logo.png"  # Set the logo to appear in the header (if applicable)
-  color_scheme: dark  # Optional: Use 'light' or 'dark' for the theme's color scheme
-  show_nav: true  # Show the navigation bar on all pages
+  color_scheme: dark  # Use the dark color scheme
+  palette:
+    primary: "#80cbc4"  # Aqua Green (links, buttons, and primary elements)
+    accent: "#ffab40"   # Bright Orange (hover effects and focus states)
+    neutral: "#121212"  # Very Dark Gray (background)
+    gray: "#b0bec5"     # Light Gray (text and borders)
