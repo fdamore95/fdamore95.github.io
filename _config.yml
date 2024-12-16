@@ -36,10 +36,10 @@ favicon: "/assets/images/favicon.ico"  # Add a custom favicon (optional, specify
 just_the_docs:
   color_scheme: light  # Use 'light' for a bright theme
   palette:
-    primary: "#1E88E5"  # Vibrant Blue for primary elements (links, buttons)
-    accent: "#FFC107"  # Golden Yellow for hover effects and highlights
-    neutral: "#FAFAFA"  # Soft Light Gray for the background
-    gray: "#616161"  # Medium Gray for text and borders
-    success: "#388E3C"  # Green for success highlights (optional)
-    warning: "#FBC02D"  # Yellow for warnings (optional)
-    danger: "#D32F2F"  # Red for errors (optional)
+    primary: "#4CAF50"  # Vibrant Green for primary elements (links, buttons)
+    accent: "#FF5722"  # Bright Orange for hover effects and highlights
+    neutral: "#FAFAFA"  # Light Gray for the background
+    gray: "#37474F"  # Charcoal Gray for text and borders
+    success: "#8BC34A"  # Lime Green for success highlights (optional)
+    warning: "#FFC107"  # Amber for warnings (optional)
+    danger: "#F44336"  # Red for errors (optional)
