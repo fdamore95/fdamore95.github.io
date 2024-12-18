@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-# Welcome to My Website
+# Welcome!
 
 I am **Francesco d'Amore**, a postdoctoral researcher at **Bocconi University** (Italy), working in professor [Luca Trevisan](https://lucatrevisan.github.io/)'s team.  
 Previously, I was working in professor [Jukka Suomela](https://jukkasuomela.fi/)'s team at **Aalto University** (Finland).  
