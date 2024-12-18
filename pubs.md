@@ -103,3 +103,10 @@ Under submission. Presented at TQC 2024. 2024
 <span style="color:darkorange">F. d'Amore</span>  
 Doctoral thesis. 2022   
 [Preprint](https://cnrs.hal.science/tel-03906167/)
+
+ --- 
+
+- **<span style="color:#993300">On the Multidimensional Random Subset Sum Problem</span>**  
+[L. Becchetti](https://www.diag.uniroma1.it/~becchett/), [A. Clementi](https://www.mat.uniroma2.it/~clementi/), [A. Da Cunha](https://arthurwalraven.github.io/), <span style="color:darkorange">F. d'Amore</span>, H. Lesfari, [E. Natale](https://natema.github.io/ema-webpage/), [L. Trevisan](https://lucatrevisan.github.io/)  
+Unpublished. 2022   
+[Preprint](https://arxiv.org/abs/2207.13944)
