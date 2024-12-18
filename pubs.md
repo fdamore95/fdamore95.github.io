@@ -18,7 +18,7 @@ nav_order: 3
  --- 
 
 - **<span style="color:#993300">No distributed quantum advantage for approximate graph coloring</span>**  
-X. Coiteux-Roy, <span style="color:darkorange">F. d'Amore</span>, [R. Gajjala](https://sites.google.com/view/gajjala), [F. Kuhn](https://ac.informatik.uni-freiburg.de/kuhn/), [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [M. Renou](https://marcolivierrenou.com/), [G. Schmid](https://ac.informatik.uni-freiburg.de/schmid/), [J. Suomela](https://jukkasuomela.fi/)  
+X. Coiteux-Roy, <span style="color:darkorange">F. d'Amore</span>, [R. Gajjala](https://sites.google.com/view/rishikeshg), [F. Kuhn](https://ac.informatik.uni-freiburg.de/kuhn/), [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [M. Renou](https://marcolivierrenou.com/), [G. Schmid](https://ac.informatik.uni-freiburg.de/schmid/), [J. Suomela](https://jukkasuomela.fi/)  
 *STOC 2024*  
 Presented at TQC 2024 and HALG 2024  
 [Publication](https://dl.acm.org/doi/10.1145/3618260.3649679) | [Preprint](https://arxiv.org/abs/2307.09444)
