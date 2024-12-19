@@ -34,7 +34,7 @@ search_enabled: true  # Enables a search bar for navigating your site (if suppor
 search_placeholder: "Search..."  # Customize placeholder text in the search bar
 logo: "/assets/images/logo.png"  # Add a custom logo (optional, specify the path)
 # favicon: "/assets/images/favicon.ico"  # Add a custom favicon (optional, specify the path)
-title_only_logo: true # 'false' to show logo on the left of the title text, 'true' to show logo only (the behaviour of current version)
+# title_only_logo: true # 'false' to show logo on the left of the title text, 'true' to show logo only (the behaviour of current version)
 
 # Just the Docs configuration
 just_the_docs:
