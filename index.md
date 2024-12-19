@@ -49,3 +49,13 @@ I also work on **theoretical machine learning** and statistics. For instance:
 ---
 
 Thank you for visiting my website! Feel free to reach out if you’d like to collaborate or learn more about my work.
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin-bottom: 20px;">
+  <!-- Image -->
+  <img src="./assets/images/logo.jpg" alt="my-mood" style="width: 180px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+
+  <!-- Credit Text -->
+  <div style="text-align: center; font-size: 14px; color: #555;">
+    Logo by <a href="https://www.vecteezy.com/" target="_blank" style="color: #007BFF; text-decoration: none;">Vecteezy</a>
+  </div>
+</div>
