@@ -52,7 +52,7 @@ Thank you for visiting my website! Feel free to reach out if you’d like to col
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin-bottom: 20px;">
   <!-- Image -->
-  <img src="./assets/images/logo.png" alt="my-mood" style="width: 300px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+  <img src="./assets/images/motto.png" alt="my-mood" style="width: 300px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
 
   <!-- Credit Text -->
   <div style="text-align: center; font-size: 14px; color: #555;">
