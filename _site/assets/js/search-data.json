@@ -1,0 +1,156 @@
+{"0": {
+    "doc": "Curriculum Vitae",
+    "title": "Curriculum Vitae",
+    "content": " ",
+    "url": "/cv.html",
+    
+    "relUrl": "/cv.html"
+  },"1": {
+    "doc": "Curriculum Vitae",
+    "title": "Positions",
+    "content": ". | 2023 - ongoing: Postdoctoral researcher at Bocconi University (Italy), working in professor Luca Trevisan’s team. | 2022 - 2023: Postdoctoral researcher at Aalto University (Finland), working in professor Jukka Suomela’s team. | . ",
+    "url": "/cv.html#positions",
+    
+    "relUrl": "/cv.html#positions"
+  },"2": {
+    "doc": "Curriculum Vitae",
+    "title": "Education",
+    "content": ". | 2019 - 2022: Ph.D. in Computer Science at Inria &amp; Université Côte D’Azur . | Thesis Project: On the Collective Behaviors of Bio-inspired Distributed Systems (Manuscript) | Supervisors: Emanuele Natale and Nicolas Nisse | Visits: . | September 2022: Visiting Ph.D. student at Aalto University, working with professor Jukka Suomela. | May 2022: Visiting Ph.D. student at Inria Rennes, working with George Giakkoupis. | December 2021: Visiting Ph.D. student at Università di Roma \"Tor Vergata\", working with Andrea Clementi. | June 2021: Visiting Ph.D. student at Gran Sasso Science Institute, working with Pierluigi Crescenzi. | October 2019 - January 2020: Visiting Ph.D. student at Università di Roma \"Tor Vergata\", working with Andrea Clementi. | . | . | 2016 - 2019: M.Sc. in Mathematics for Applications, Università di Roma \"La Sapienza\" . | Final evaluation: 110/110 with honors | Thesis: On the convergence time of the Undecided-State dynamics with three colors | Advisors: Andrea Clementi, Gustavo Posta | 24 ECTS in pedagogy, psychology, and education. | . | 2013 - 2016: B.Sc. in Mathematics, Università di Roma \"La Sapienza\" . | Final evaluation: 110/110 with honors | Thesis: Il problema dell’omeomorfismo tra grafi diretti | Advisor: Ivano Salvo. | . | . ",
+    "url": "/cv.html#education",
+    
+    "relUrl": "/cv.html#education"
+  },"3": {
+    "doc": "Curriculum Vitae",
+    "title": "Students",
+    "content": "Bachelor Thesis Supervision . | February - May 2023: . | Joona Jarre: Primality Testing and Integer Factoring, Aalto University, Espoo, Finland. | Peik Etzel: Coordinated Robot Motion Planning, Aalto University, Espoo, Finland. | Linus Jern: Population Protocols for the Consensus Problem, Aalto University, Espoo, Finland. | . | . ",
+    "url": "/cv.html#students",
+    
+    "relUrl": "/cv.html#students"
+  },"4": {
+    "doc": "Curriculum Vitae",
+    "title": "Teaching",
+    "content": ". | July 2024: Ph.D. course on Causal Limits of Distributed Quantum Computation (6 hours), Gran Sasso Science Institute (GSSI), L’Aquila, Italy. | February - April 2022: Teaching practicum (56 hours) for the Database Course (PL/SQL) at Institut Universitaire de Technologie, Université Côte d’Azur. | . ",
+    "url": "/cv.html#teaching",
+    
+    "relUrl": "/cv.html#teaching"
+  },"5": {
+    "doc": "Curriculum Vitae",
+    "title": "Awards, Grants, and Scholarships",
+    "content": ". | 2020: Winner of Borsa di Perfezionamento all’Estero, Università di Roma \"La Sapienza\". | 2016 &amp; 2019: Two-time winner of a merit-based scholarship, Department of Mathematics, Università di Roma \"La Sapienza\". | . ",
+    "url": "/cv.html#awards-grants-and-scholarships",
+    
+    "relUrl": "/cv.html#awards-grants-and-scholarships"
+  },"6": {
+    "doc": "Curriculum Vitae",
+    "title": "Schools &amp; Workshops",
+    "content": ". | November 2024: Organizer of WAND (Workshop on Analysis of Network Dynamics), colocated with DISC 2024, Madrid, Spain. | October 2024: Invited talk at ADGA, colocated with DISC 2024, Madrid, Spain. | January 2024: Contributed talk at Mathematics for AI and Machine Learning, Bocconi University, Milan, Italy. | October 2023: Organizer of WAND, colocated with DISC 2023, GSSI, L’Aquila, Italy. | . ",
+    "url": "/cv.html#schools--workshops",
+    
+    "relUrl": "/cv.html#schools--workshops"
+  },"7": {
+    "doc": "Curriculum Vitae",
+    "title": "Review Activity",
+    "content": ". | 2025: SIROCCO. | 2024: FORC, STOC, Distributed Computing, SICOMP, SODA. | 2023: PODC, Distributed Computing, DISC, NeurIPS. | 2022: AAAI, PODC, SAND. | 2021: PODC, SEA. | 2020: OPODIS, ACM Transactions on Algorithms. | . ",
+    "url": "/cv.html#review-activity",
+    
+    "relUrl": "/cv.html#review-activity"
+  },"8": {
+    "doc": "Homepage",
+    "title": "Welcome!",
+    "content": "I am Francesco d’Amore, a postdoctoral researcher at Bocconi University (Italy), working in professor Luca Trevisan’s team. Previously, I was working in professor Jukka Suomela’s team at Aalto University (Finland). I earned my Ph.D. at Université Côte D’Azur (France) in the COATI joint project-team between Inria Sophia Antipolis - Méditerranée and the I3S Laboratory. My supervisors were Emanuele Natale and Nicolas Nisse (HDR). ",
+    "url": "/#welcome",
+    
+    "relUrl": "/#welcome"
+  },"9": {
+    "doc": "Homepage",
+    "title": "Contact Information",
+    "content": "Francesco d'Amore Postdoctoral Researcher Department of Computing Sciences, office 2-c2-06 Bocconi University, Milan, Italy View on Map Email: francesco.damore2(at)unibocconi.it . ",
+    "url": "/#contact-information",
+    
+    "relUrl": "/#contact-information"
+  },"10": {
+    "doc": "Homepage",
+    "title": "Research Interests",
+    "content": "My research focuses on distributed computing, particularly on randomized distributed algorithms. I am interested in two key computing models: . | LOCAL model: Models with minimal restrictions on computational power and communication bandwidth. | GOSSIP model: Models with strong restrictions. | . Current Projects . | Investigating quantum communication to explore its potential benefits (or limitations) in the LOCAL model. | Developing and/or analyzing algorithms for the consensus problem and collaborative search in distributed systems. | . Additional Research . I also work on theoretical machine learning and statistics. For instance: . | Studying the Random Subset Sum Problem and its applications in understanding the efficiency of pruning (non-trained) neural networks. | Occasionally contributing to statistical analysis in medicine and biology. | . Thank you for visiting my website! Feel free to reach out if you’d like to collaborate or learn more about my work. Logo by Vecteezy ",
+    "url": "/#research-interests",
+    
+    "relUrl": "/#research-interests"
+  },"11": {
+    "doc": "Homepage",
+    "title": "Homepage",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"12": {
+    "doc": "Teaching notes",
+    "title": "Lecture notes",
+    "content": "In this page I share notes I write for lectures I teach. | Crash course on causal limits in the LOCAL model. This is a three-lectures PhD class I gave at Gran Sasso Science Institute (L’Aquila, Italy) in July 2024. | . ",
+    "url": "/notes.html#lecture-notes",
+    
+    "relUrl": "/notes.html#lecture-notes"
+  },"13": {
+    "doc": "Teaching notes",
+    "title": "Teaching notes",
+    "content": " ",
+    "url": "/notes.html",
+    
+    "relUrl": "/notes.html"
+  },"14": {
+    "doc": "Publications",
+    "title": "Publications",
+    "content": " ",
+    "url": "/pubs.html",
+    
+    "relUrl": "/pubs.html"
+  },"15": {
+    "doc": "Publications",
+    "title": "Peer-reviewed papers",
+    "content": ". | Phase Transition of the 3-Majority Dynamics with Uniform Communication Noise F. d’Amore, I. Ziccardi Theoretical Computer Science 2024 Publication | Preprint | . | No distributed quantum advantage for approximate graph coloring X. Coiteux-Roy, F. d’Amore, R. Gajjala, F. Kuhn, F. Le Gall, H. Lievonen, A. Modanese, M. Renou, G. Schmid, J. Suomela STOC 2024 Presented at TQC 2024 and HALG 2024 Publication | Preprint | . | Polynomially Over-Parameterized Convolutional Neural Networks Contain Structured Strong Winning Lottery Tickets A. Da Cunha, F. d’Amore, E. Natale NeurIPS 2023 Publication | Preprint | . | Brief announcement: Distributed derandomization revisited S. Dahal, F. d’Amore, H. Lievonen, T. Picavet, J. Suomela DISC 2023 Publication | Preprint | . | Revisiting the Random Subset Sum problem A. Da Cunha, F. d’Amore, F. Giroire, H. Lesfari, E. Natale, L. Viennot ESA 2023 Publication | Preprint | . | Phase transition of a nonlinear opinion dynamics with noisy interactions F. d’Amore, A. Clementi, E. Natale Swarm Intelligence 2022 Publication | Preprint | . | Phase Transition of the 3-Majority Dynamics with Uniform Communication Noise F. d’Amore, I. Ziccardi SIROCCO 2022 Publication | Preprint | . | Planning with biological neurons synapses F. d’Amore, D. Mitropolsky, P. Crescenzi, E. Natale, C. Papadimitriou AAAI 2022 Publication | Preprint | . | Search via Parallel Lévy Walks on ℤ² A. Clementi, F. d’Amore, G. Giakkoupis, E. Natale PODC 2021 Publication | Preprint | . | Phase Transition of a Non-Linear Opinion Dynamics with Noisy Interactions F. d’Amore, A. Clementi, E. Natale SIROCCO 2020 Publication | Preprint | . ",
+    "url": "/pubs.html#peer-reviewed-papers",
+    
+    "relUrl": "/pubs.html#peer-reviewed-papers"
+  },"16": {
+    "doc": "Publications",
+    "title": "Other manuscripts",
+    "content": ". | Distributed Quantum Advantage for Local Problems A. Balliu, S. Brandt, X. Coiteux-Roy, F. d’Amore, M. Equi, F. Le Gall, H. Lievonen, A. Modanese, D. Olivetti, M. Renou, J. Suomela, L. Tendick, I. Veeren Under submission. 2024 Preprint | . | Online Locality Meets Distributed Quantum Computing A. Akbari, X. Coiteux-Roy, F. d’Amore, F. Le Gall, H. Lievonen, D. Melnyk, A. Modanese, S. Pai, M. Renou, V. Rozhoň, J. Suomela Under submission. Presented at TQC 2024. 2024 Preprint | . | On the Collective Behaviors of Bio-Inspired Distributed Systems F. d’Amore Doctoral thesis. 2022 Preprint | . | On the Multidimensional Random Subset Sum Problem L. Becchetti, A. Clementi, A. Da Cunha, F. d’Amore, H. Lesfari, E. Natale, L. Trevisan Unpublished. 2022 Preprint | . ",
+    "url": "/pubs.html#other-manuscripts",
+    
+    "relUrl": "/pubs.html#other-manuscripts"
+  },"17": {
+    "doc": "Talks & Presentations",
+    "title": "Talks &amp; Presentations",
+    "content": ". ",
+    "url": "/talks.html#talks--presentations",
+    
+    "relUrl": "/talks.html#talks--presentations"
+  },"18": {
+    "doc": "Talks & Presentations",
+    "title": "2024",
+    "content": ". | Causal Limits of Distributed Computation Invited speaker at ADGA 2024, workshop colocated with DISC 2024, Madrid, Spain. Slides . | No Distributed Quantum Advantage for Approximate Graph Coloring Paper presentation at STOC 2024, Vancouver, Canada. Slides | Video . | The Strong Lottery Ticket Hypothesis and the Random Subset Sum Problem Invited talk at Workshop “Kolmogorov Meets Turing”, University of Rome “La Sapienza,” Rome, Italy. | On Structured Pruning in the Strong Lottery Ticket Hypothesis via Multidimensional Random Subset Sum Contributed talk at Workshop “Mathematics for AI and Machine Learning”, Bocconi University, Milan, Italy. Slides . | . ",
+    "url": "/talks.html#2024",
+    
+    "relUrl": "/talks.html#2024"
+  },"19": {
+    "doc": "Talks & Presentations",
+    "title": "2023",
+    "content": ". | Polynomially Over-Parameterized Convolutional Neural Networks Contain Structured Strong Winning Lottery Tickets Poster presentation at NeurIPS 2023, New Orleans, USA. Poster . | Causal Limits of Distributed Computation BIDSA Seminar, Bocconi University, Milan, Italy. Slides . | The Strong Lottery Ticket Hypothesis and the Random Subset Sum Problem Aalto Theory Seminar, Aalto University, Espoo, Finland. Slides . | The Strong Lottery Ticket Hypothesis and the Random Subset Sum Problem RoMaDS Invited Seminar, Università di Roma Tor Vergata, Rome, Italy. | . ",
+    "url": "/talks.html#2023",
+    
+    "relUrl": "/talks.html#2023"
+  },"20": {
+    "doc": "Talks & Presentations",
+    "title": "2022",
+    "content": ". | On the Collective Behaviors of Bio-Inspired Distributed Systems Ph.D. defense talk, Inria Sophia Antipolis, France. Slides . | On the Multidimensional Random Subset Sum Problem Invited talk at Aalto University, Department of Computer Science, Espoo, Finland. Slides . | Phase Transition of the 3-Majority Dynamics with Uniform Communication Noise Invited talk at Third Italian Meeting on Probability and Mathematical Statistics 2022, Bologna, Italy. Slides . | Search via Parallel Lévy Walks on ℤ² Poster at HALG 2022, London, UK. Poster . | . ",
+    "url": "/talks.html#2022",
+    
+    "relUrl": "/talks.html#2022"
+  },"21": {
+    "doc": "Talks & Presentations",
+    "title": "Talks & Presentations",
+    "content": " ",
+    "url": "/talks.html",
+    
+    "relUrl": "/talks.html"
+  }
+}
