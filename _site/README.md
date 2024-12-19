@@ -1,1 +1,0 @@
-This is my personal website. Credits to [Vecteezy](https://www.vecteezy.com/) for the logo image.
