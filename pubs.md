@@ -10,7 +10,7 @@ nav_order: 3
 <div style="margin-bottom: 2rem;"></div>
 
 
-- **<span style="color:#993300">Phase Transition of the 3-Majority Dynamics with Uniform Communication Noise</span>**  
+- **<span style="color:#993300">Phase transition of the 3-majority opinion dynamics with noisy interactions</span>**  
 <span style="color:darkorange">F. d'Amore</span>, [I. Ziccardi](https://sites.google.com/view/isabellaziccardi/)  
 *Theoretical Computer Science 2024*  
 [Publication](https://www.sciencedirect.com/science/article/pii/S0304397524006479) | [Preprint](https://arxiv.org/abs/2112.03543)
