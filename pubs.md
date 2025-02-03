@@ -12,14 +12,16 @@ nav_order: 3
 
 - **<span style="color:#993300">Distributed Quantum Advantage for Local Problems</span>**  
 [A. Balliu](https://alkida.net/), [S. Brandt](https://scbrandt.github.io/), X. Coiteux-Roy, <span style="color:darkorange">F. d'Amore</span>, [M. Equi](https://massimoequi.github.io/), [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [D. Olivetti](https://ac.informatik.uni-freiburg.de/olivetti/), [M. Renou](https://marcolivierrenou.com/), [J. Suomela](https://jukkasuomela.fi/), L. Tendick, I. Veeren  
-*STOC 2025* | [Preprint](https://arxiv.org/abs/2411.03240)
+*STOC 2025*  
+[Preprint](https://arxiv.org/abs/2411.03240)
 
  --- 
 
 - **<span style="color:#993300">Online Locality Meets Distributed Quantum Computing</span>**  
 A. Akbari, X. Coiteux-Roy, <span style="color:darkorange">F. d'Amore</span>, [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [D. Melnyk](https://darya-melnyk.github.io/), [A. Modanese](https://augusto.modanese.net/), [S. Pai](https://shreyaspai.com/), [M. Renou](https://marcolivierrenou.com/), [V. Rozhoň](https://n.ethz.ch/~rozhonv/), [J. Suomela](https://jukkasuomela.fi/)  
 *STOC 2025*  
-Presented at TQC 2024 | [Preprint](https://arxiv.org/abs/2403.01903)
+Presented at TQC 2024  
+[Preprint](https://arxiv.org/abs/2403.01903)
 
  --- 
 
