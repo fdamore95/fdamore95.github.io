@@ -48,6 +48,16 @@ I also work on **theoretical machine learning** and statistics. For instance:
 
 ---
 
+### Recent news
+
+- Our paper **<span style="color:#993300">Distributed Quantum Advantage for Local Problems</span>** has been accepted at *STOC 2025*!    
+[Preprint](https://arxiv.org/abs/2411.03240)
+
+- Our paper **<span style="color:#993300">Online Locality Meets Distributed Quantum Computing</span>** has been accepted at *STOC 2025*!    
+[Preprint](https://arxiv.org/abs/2403.01903)
+
+---
+
 Thank you for visiting my website! Feel free to reach out if you’d like to collaborate or learn more about my work.
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin-bottom: 20px;">
