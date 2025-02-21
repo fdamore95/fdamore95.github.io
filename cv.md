@@ -8,7 +8,7 @@ nav_order: 2
 
 ## Positions
 
-- **03/2025 - ongoing** Postdoctoral researcher at Gran Sasso Science Institute (Italy).
+- **03/2025 - ongoing** Postdoctoral researcher at Gran Sasso Science Institute (Italy), working with professors [Alkida Balliu](https://alkida.net/) and [Dennis Olivetti](https://olidennis.github.io/).
 - **12/2023 - 02/2025**: Postdoctoral researcher at Bocconi University (Italy), working in professor [Luca Trevisan](https://lucatrevisan.github.io/)'s team.
 - **12/2022 - 11/2023**: Postdoctoral researcher at Aalto University (Finland), working in professor [Jukka Suomela](https://jukkasuomela.fi/)'s team.
 
