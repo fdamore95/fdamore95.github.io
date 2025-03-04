@@ -23,7 +23,7 @@ I earned my Ph.D. at **Université Côte D'Azur** (France) in the [COATI](https:
     Department of Computer Science, office PT-14<br>
     Gran Sasso Science Institute, L'Aquila, Italy<br>
     <a href="https://maps.app.goo.gl/QWWZPcZBChf3x9BR6">View on Map</a><br>
-    <strong>Email:</strong> francesco.damore2<span>(at)</span>unibocconi.it
+    <strong>Email:</strong> francesco.damore<span>(at)</span>gssi.it
   </div>
 </div>
 
