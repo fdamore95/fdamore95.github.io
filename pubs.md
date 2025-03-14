@@ -25,6 +25,13 @@ Presented at TQC 2024
 
  --- 
 
+- **<span style="color:#993300">On the limits of distributed quantum computing</span>**  
+<span style="color:darkorange">F. d'Amore</span>  
+*Bulletin of EATCS 2025*  
+[Publication](http://bulletin.eatcs.org/index.php/beatcs/article/view/829)
+
+ --- 
+
 - **<span style="color:#993300">Phase transition of the 3-majority opinion dynamics with noisy interactions</span>**  
 <span style="color:darkorange">F. d'Amore</span>, [I. Ziccardi](https://sites.google.com/view/isabellaziccardi/)  
 *Theoretical Computer Science 2025*  
