@@ -73,8 +73,7 @@ nav_order: 4
 
 - **Planning with Biological Neurons and Synapses**  
   Online talk and poster at AAAI 2022, Vancouver, Canada.  
-  [Slides](https://drive.google.com/file/d/1ASApDked947d9oSZQ3-Hk8DCd9rO46hK/view?usp=sharing)  
-  [Poster](https://hal.archives-ouvertes.fr/hal-03596672/file/assembly_aaai22_poster1_boxes.pdf)
+  [Slides](https://drive.google.com/file/d/1ASApDked947d9oSZQ3-Hk8DCd9rO46hK/view?usp=sharing) | [Poster](https://hal.archives-ouvertes.fr/hal-03596672/file/assembly_aaai22_poster1_boxes.pdf)
 
 ## 2021
 
@@ -87,8 +86,7 @@ nav_order: 4
 
 - **Search via Parallel Lévy Walks on ℤ²**  
   Online seminar at ACM Symposium on Principles of Distributed Computing (PODC 2021), Salerno, Italy.  
-  [Slides](https://drive.google.com/file/d/1ao7yiWWQ_45WRXqS3Ml890n-mH1goYCp/view?usp=sharing)  
-  [Video link](https://www.youtube.com/watch?v=iWWPq5asqsM)
+  [Slides](https://drive.google.com/file/d/1ao7yiWWQ_45WRXqS3Ml890n-mH1goYCp/view?usp=sharing) | [Video](https://www.youtube.com/watch?v=iWWPq5asqsM)
 
 - **On some Opinion Dynamics in Multi-Agent Systems**  
   Poster at [MOMI 2021](https://phd-seminars-sam.inria.fr/fr/momi2021/), Sophia Antipolis, France.  
@@ -106,13 +104,11 @@ nav_order: 4
 
 - **Phase Transition of a Non-Linear Opinion Dynamics with Noisy Interactions**  
   Paper presentation at SIROCCO 2020, Paderborn, Germany.  
-  [Slides](https://drive.google.com/file/d/1YLnw-e8UNcrBaB6aPOY6sW1FxruAv7b4/view?usp=sharing)  
-  [Video link](https://www.youtube.com/watch?v=w2HKdREGpB4&list=PL2P_cO0GPJGSq4z5UJxPSWAUWgHWr48ck&index=20&t=0s)
+  [Slides](https://drive.google.com/file/d/1YLnw-e8UNcrBaB6aPOY6sW1FxruAv7b4/view?usp=sharing) | [Video](https://www.youtube.com/watch?v=w2HKdREGpB4&list=PL2P_cO0GPJGSq4z5UJxPSWAUWgHWr48ck&index=20&t=0s)
 
 - **On the Search Efficiency of Parallel Lévy Walks in ℤ²**  
   Invited online seminar at IRIF, Paris, France.  
-  [PDF](https://drive.google.com/file/d/1LErKfi_Id_O0ip47Xq5kyI9E4hwUoyjj/view?usp=sharing)  
-  [Video link](https://bbb2.math.univ-paris-diderot.fr/playback/presentation/2.0/playback.html?meetingId=ba0d7ad67877c1212f88eec5deba5f6302d96d6e-1591703939771)
+  [PDF](https://drive.google.com/file/d/1LErKfi_Id_O0ip47Xq5kyI9E4hwUoyjj/view?usp=sharing) | [Video](https://bbb2.math.univ-paris-diderot.fr/playback/presentation/2.0/playback.html?meetingId=ba0d7ad67877c1212f88eec5deba5f6302d96d6e-1591703939771)
 
 - **On the Search Efficiency of Parallel Lévy Walks in ℤ²**  
   COATI group seminar, I3S - Sophia Antipolis, France.  
