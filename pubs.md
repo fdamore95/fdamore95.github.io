@@ -11,14 +11,14 @@ nav_order: 3
 
 
 - **<span style="color:#993300">Distributed Quantum Advantage for Local Problems</span>**  
-[A. Balliu](https://alkida.net/), [S. Brandt](https://scbrandt.github.io/), X. Coiteux-Roy, <span style="color:darkorange">F. d'Amore</span>, [M. Equi](https://massimoequi.github.io/), [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [D. Olivetti](https://ac.informatik.uni-freiburg.de/olivetti/), [M. Renou](https://marcolivierrenou.com/), [J. Suomela](https://jukkasuomela.fi/), L. Tendick, I. Veeren  
+[A. Balliu](https://alkida.net/), [S. Brandt](https://scbrandt.github.io/), [X. Coiteux-Roy](https://scholar.google.com/citations?user=FVy9CeAAAAAJ&hl=fr), <span style="color:darkorange">F. d'Amore</span>, [M. Equi](https://massimoequi.github.io/), [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [D. Olivetti](https://olidennis.github.io/), [M. Renou](https://marcolivierrenou.com/), [J. Suomela](https://jukkasuomela.fi/), [L. Tendick](https://scholar.google.com/citations?user=oRsE2swAAAAJ&hl=de), [I. Veeren](https://scholar.google.com/citations?user=FBf6xssAAAAJ&hl=en)  
 *STOC 2025*  
 [Preprint](https://arxiv.org/abs/2411.03240)
 
  --- 
 
 - **<span style="color:#993300">Online Locality Meets Distributed Quantum Computing</span>**  
-A. Akbari, X. Coiteux-Roy, <span style="color:darkorange">F. d'Amore</span>, [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [D. Melnyk](https://darya-melnyk.github.io/), [A. Modanese](https://augusto.modanese.net/), [S. Pai](https://shreyaspai.com/), [M. Renou](https://marcolivierrenou.com/), [V. Rozhoň](https://n.ethz.ch/~rozhonv/), [J. Suomela](https://jukkasuomela.fi/)  
+A. Akbari, [X. Coiteux-Roy](https://scholar.google.com/citations?user=FVy9CeAAAAAJ&hl=fr), <span style="color:darkorange">F. d'Amore</span>, [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [D. Melnyk](https://darya-melnyk.github.io/), [A. Modanese](https://augusto.modanese.net/), [S. Pai](https://shreyaspai.com/), [M. Renou](https://marcolivierrenou.com/), [V. Rozhoň](https://n.ethz.ch/~rozhonv/), [J. Suomela](https://jukkasuomela.fi/)  
 *STOC 2025*  
 Presented at TQC 2024  
 [Preprint](https://arxiv.org/abs/2403.01903)
@@ -40,7 +40,7 @@ Presented at TQC 2024
  --- 
 
 - **<span style="color:#993300">No distributed quantum advantage for approximate graph coloring</span>**  
-X. Coiteux-Roy, <span style="color:darkorange">F. d'Amore</span>, [R. Gajjala](https://sites.google.com/view/rishikeshg), [F. Kuhn](https://ac.informatik.uni-freiburg.de/kuhn/), [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [M. Renou](https://marcolivierrenou.com/), [G. Schmid](https://ac.informatik.uni-freiburg.de/schmid/), [J. Suomela](https://jukkasuomela.fi/)  
+[X. Coiteux-Roy](https://scholar.google.com/citations?user=FVy9CeAAAAAJ&hl=fr), <span style="color:darkorange">F. d'Amore</span>, [R. Gajjala](https://sites.google.com/view/rishikeshg), [F. Kuhn](https://ac.informatik.uni-freiburg.de/kuhn/), [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [M. Renou](https://marcolivierrenou.com/), [G. Schmid](https://ac.informatik.uni-freiburg.de/schmid/), [J. Suomela](https://jukkasuomela.fi/)  
 *STOC 2024*  
 Presented at TQC 2024 and HALG 2024  
 [Publication](https://dl.acm.org/doi/10.1145/3618260.3649679) | [Preprint](https://arxiv.org/abs/2307.09444)
@@ -55,14 +55,14 @@ Presented at TQC 2024 and HALG 2024
  --- 
 
 - **<span style="color:#993300">Brief announcement: Distributed derandomization revisited</span>**  
-S. Dahal, <span style="color:darkorange">F. d'Amore</span>, [H. Lievonen](https://henriklievonen.fi/), [T. Picavet](https://www.timothepicavet.fr/), [J. Suomela](https://jukkasuomela.fi/)  
+[S. Dahal](https://fi.linkedin.com/in/sameep-dahal-27a222160), <span style="color:darkorange">F. d'Amore</span>, [H. Lievonen](https://henriklievonen.fi/), [T. Picavet](https://www.timothepicavet.fr/), [J. Suomela](https://jukkasuomela.fi/)  
 *DISC 2023*  
 [Publication](https://drops.dagstuhl.de/opus/volltexte/2023/19166/) | [Preprint](https://arxiv.org/abs/2305.07351)
 
  --- 
 
 - **<span style="color:#993300">Revisiting the Random Subset Sum problem</span>**  
-[A. Da Cunha](https://arthurwalraven.github.io/), <span style="color:darkorange">F. d'Amore</span>, [F. Giroire](https://www-sop.inria.fr/members/Frederic.Giroire/), H. Lesfari, [E. Natale](https://natema.github.io/ema-webpage/), [L. Viennot](https://who.rocq.inria.fr/Laurent.Viennot/)  
+[A. Da Cunha](https://arthurwalraven.github.io/), <span style="color:darkorange">F. d'Amore</span>, [F. Giroire](https://www-sop.inria.fr/members/Frederic.Giroire/), [H. Lesfari](https://scholar.google.com/citations?user=c8rrRQoAAAAJ&hl=en), [E. Natale](https://natema.github.io/ema-webpage/), [L. Viennot](https://who.rocq.inria.fr/Laurent.Viennot/)  
 *ESA 2023*  
 [Publication](https://drops.dagstuhl.de/opus/volltexte/2023/18690/) | [Preprint](https://arxiv.org/abs/2204.13929)
 
@@ -107,6 +107,13 @@ S. Dahal, <span style="color:darkorange">F. d'Amore</span>, [H. Lievonen](https:
 <div style="margin-bottom: 2rem;"></div>
 
 
+- **<span style="color:#993300">Distributed Quantum Advantage in Locally Checkable Labeling Problems</span>**  
+[A. Balliu](https://alkida.net/), [F. Casagrande](https://www.gssi.it/people/students/students-computer-science/item/24583-casagrande-filippo), <span style="color:darkorange">F. d'Amore</span>, [M. Equi](https://massimoequi.github.io/), [B. Keller](https://users.aalto.fi/~kellerb1/), [H. Lievonen](https://henriklievonen.fi/), [D. Olivetti](https://olidennis.github.io/), [G. Schmid](https://ac.informatik.uni-freiburg.de/schmid/), [J. Suomela](https://jukkasuomela.fi/)  
+Under submission. 2025   
+[Preprint](https://arxiv.org/abs/2504.05191)
+
+ --- 
+
 - **<span style="color:#993300">On the Collective Behaviors of Bio-Inspired Distributed Systems</span>**  
 <span style="color:darkorange">F. d'Amore</span>  
 Doctoral thesis. 2022   
@@ -115,6 +122,6 @@ Doctoral thesis. 2022
  --- 
 
 - **<span style="color:#993300">On the Multidimensional Random Subset Sum Problem</span>**  
-[L. Becchetti](https://www.diag.uniroma1.it/~becchett/), [A. Clementi](https://www.mat.uniroma2.it/~clementi/), [A. Da Cunha](https://arthurwalraven.github.io/), <span style="color:darkorange">F. d'Amore</span>, H. Lesfari, [E. Natale](https://natema.github.io/ema-webpage/), [L. Trevisan](https://lucatrevisan.github.io/)  
+[L. Becchetti](https://www.diag.uniroma1.it/~becchett/), [A. Clementi](https://www.mat.uniroma2.it/~clementi/), [A. Da Cunha](https://arthurwalraven.github.io/), <span style="color:darkorange">F. d'Amore</span>, [H. Lesfari](https://scholar.google.com/citations?user=c8rrRQoAAAAJ&hl=en), [E. Natale](https://natema.github.io/ema-webpage/), [L. Trevisan](https://lucatrevisan.github.io/)  
 Unpublished. 2022   
 [Preprint](https://arxiv.org/abs/2207.13944)
