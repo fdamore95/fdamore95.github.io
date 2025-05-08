@@ -10,7 +10,7 @@ nav_order: 4
 
 ## 2025
 
-- - **Causal Limits of Distributed Computation**  
+- **Causal Limits of Distributed Computation**  
   Invited speaker at ["Giornata INdAM"](https://ricerca.matfis.uniroma3.it/INDAM/giornata25.html) 2025, national workshop at RomaTre University, Rome, Italy.  
   [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2025-indam.pdf)
 
