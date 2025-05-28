@@ -8,7 +8,8 @@ nav_order: 2
 
 ## Positions
 
-- **03/2025 - ongoing** Postdoctoral researcher at Gran Sasso Science Institute (Italy), working with professors [Alkida Balliu](https://alkida.net/) and [Dennis Olivetti](https://olidennis.github.io/).
+- **05/2025 - ongoing** International postdoctoral researcher (ricercatore internazionale postdottorato - CdR in Italian) at Gran Sasso Science Institute (Italy), working with professors [Alkida Balliu](https://alkida.net/) and [Dennis Olivetti](https://olidennis.github.io/).
+- **03/2025 - 05/2025** Postdoctoral researcher at Gran Sasso Science Institute (Italy), working with professors [Alkida Balliu](https://alkida.net/) and [Dennis Olivetti](https://olidennis.github.io/).
 - **12/2023 - 02/2025**: Postdoctoral researcher at Bocconi University (Italy), working in professor [Luca Trevisan](https://lucatrevisan.github.io/)'s team.
 - **12/2022 - 11/2023**: Postdoctoral researcher at Aalto University (Finland), working in professor [Jukka Suomela](https://jukkasuomela.fi/)'s team.
 
@@ -80,7 +81,7 @@ nav_order: 2
 
 Here I summarize my activity as (sub)reviewer, keeping track of the amount of papers reviewed each year.
 
-- **2025**: SIROCCO (1), ICALP (2), PODC (3), SODA (1).
+- **2025**: SIROCCO (1), ICALP (2), PODC (3), SODA (1), DISC (1).
 - **2024**: FORC (1), STOC (1), SICOMP (1).
 - **2023**: PODC (1), Distributed Computing (1), DISC (1), NeurIPS (1).  
 - **2022**: AAAI (2), PODC (1), SAND (1).  
