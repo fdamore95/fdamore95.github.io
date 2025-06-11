@@ -6,7 +6,7 @@ nav_order: 1
 
 # Welcome!
 
-I am **Francesco d'Amore**, a postdoctoral international researcher (ricercatore internazionale postdottorato - CdR in Italian) at **Gran Sasso Science Institute** (Italy), working with professors [Alkida Balliu](https://alkida.net/) and [Dennis Olivetti](https://olidennis.github.io/).
+I am **Francesco d'Amore**, an international postdoctoral researcher (ricercatore internazionale postdottorato - CdR in Italian) at **Gran Sasso Science Institute** (Italy), working with professors [Alkida Balliu](https://alkida.net/) and [Dennis Olivetti](https://olidennis.github.io/).
 Previously, I had the honor of being a postdoctoral researcher at **Bocconi University** (Italy), working in professor [Luca Trevisan](https://lucatrevisan.github.io/)'s team, and at **Aalto University** (Finland), working in professor [Jukka Suomela](https://jukkasuomela.fi/)'s team.  
 
 I earned my Ph.D. at **Université Côte D'Azur** (France) in the [COATI](https://team.inria.fr/coati/) joint project-team between Inria Sophia Antipolis - Méditerranée and the I3S Laboratory. My supervisors were [Emanuele Natale](https://natema.github.io/ema-webpage/) and [Nicolas Nisse](http://www-sop.inria.fr/members/Nicolas.Nisse/) (HDR).
