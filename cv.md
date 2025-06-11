@@ -19,7 +19,7 @@ nav_order: 2
 
 - **2019 - 2022**: Ph.D. in Computer Science at Inria & Université Côte D'Azur  
   - **Thesis Project**: *On the Collective Behaviors of Bio-inspired Distributed Systems* ([Manuscript](https://hal.science/tel-03906167))  
-  - **Supervisors**: [Emanuele Natale](https://natema.github.io/ema-webpage/) and [Nicolas Nisse](http://www-sop.inria.fr/members/Nicolas.Nisse/)
+  - **Supervisors**: [Emanuele Natale](https://natema.github.io/) and [Nicolas Nisse](http://www-sop.inria.fr/members/Nicolas.Nisse/)
   - **Visits**:
     - **September 2022**: Visiting Ph.D. student at Aalto University, working with professor [Jukka Suomela](https://jukkasuomela.fi/).
     - **May 2022**: Visiting Ph.D. student at Inria Rennes, working with [George Giakkoupis](https://sites.google.com/site/ggiakk/home).
