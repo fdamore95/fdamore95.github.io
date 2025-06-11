@@ -107,6 +107,13 @@ Presented at TQC 2024 and HALG 2024
 <div style="margin-bottom: 2rem;"></div>
 
 
+- **<span style="color: #196f3d">New Limits on Distributed Quantum Advantage: Dequantizing Linear Programs</span>**  
+[A. Balliu](https://alkida.net/), [C. Coupette](https://www.coupette.io/), [A. Cruciani](https://antonio-cruciani.github.io/), <span style="color:darkorange">F. d'Amore</span>, [M. Equi](https://massimoequi.github.io/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [D. Olivetti](https://olidennis.github.io/), [J. Suomela](https://jukkasuomela.fi/)  
+Under submission. 2025   
+[Preprint](https://arxiv.org/abs/2506.07574)
+
+ --- 
+
 - **<span style="color: #196f3d">Distributed Quantum Advantage in Locally Checkable Labeling Problems</span>**  
 [A. Balliu](https://alkida.net/), [F. Casagrande](https://www.gssi.it/people/students/students-computer-science/item/24583-casagrande-filippo), <span style="color:darkorange">F. d'Amore</span>, [M. Equi](https://massimoequi.github.io/), [B. Keller](https://users.aalto.fi/~kellerb1/), [H. Lievonen](https://henriklievonen.fi/), [D. Olivetti](https://olidennis.github.io/), [G. Schmid](https://ac.informatik.uni-freiburg.de/schmid/), [J. Suomela](https://jukkasuomela.fi/)  
 Under submission. 2025   
