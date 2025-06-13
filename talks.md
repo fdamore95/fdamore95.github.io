@@ -117,7 +117,7 @@ nav_order: 4
 
 - **On the Search Efficiency of Parallel Lévy Walks in ℤ²**  
   Invited online seminar at IRIF, Paris, France.  
-  [PDF](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2020-irif-levy.pdf)
+  [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2020-irif-levy.pdf)
 
 - **On the Search Efficiency of Parallel Lévy Walks in ℤ²**  
   COATI group seminar, I3S - Sophia Antipolis, France.  
