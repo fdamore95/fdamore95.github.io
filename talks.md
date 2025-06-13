@@ -11,6 +11,9 @@ nav_order: 4
 ## 2025
 
 - **Causal Limits of Distributed Computation**  
+  Contributed talk at Workshop ["Young Researchers Forum"](https://sites.google.com/view/youngresearchersforum2025/) 2025, online event.
+
+- **Causal Limits of Distributed Computation**  
   Invited speaker at Workshop ["Giornata INdAM"](https://ricerca.matfis.uniroma3.it/INDAM/giornata25.html) 2025, RomaTre University, Rome, Italy.  
   [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2025-indam.pdf)
 
