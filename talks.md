@@ -20,7 +20,7 @@ nav_order: 4
 ## 2024
 
 - **Causal Limits of Distributed Computation**  
-  Invited speaker at ADGA 2024, workshop colocated with DISC 2024, Madrid, Spain.  
+  Invited speaker at ADGA 2024, workshop colocated with DISC 2024, Madrid, Spain.  F
   [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2024-adga.pdf)
 
 - **No Distributed Quantum Advantage for Approximate Graph Coloring**  
@@ -117,7 +117,7 @@ nav_order: 4
 
 - **On the Search Efficiency of Parallel Lévy Walks in ℤ²**  
   Invited online seminar at IRIF, Paris, France.  
-  [PDF](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2020-irif-levy.pdf) | [Video](https://bbb2.math.univ-paris-diderot.fr/playback/presentation/2.0/playback.html?meetingId=ba0d7ad67877c1212f88eec5deba5f6302d96d6e-1591703939771)
+  [PDF](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2020-irif-levy.pdf)
 
 - **On the Search Efficiency of Parallel Lévy Walks in ℤ²**  
   COATI group seminar, I3S - Sophia Antipolis, France.  
