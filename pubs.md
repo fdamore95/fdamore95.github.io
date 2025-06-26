@@ -107,6 +107,13 @@ Presented at TQC 2024 and HALG 2024
 <div style="margin-bottom: 2rem;"></div>
 
 
+- **<span style="color: #196f3d">On the h-majority dynamics with many opinions</span>**  
+<span style="color:darkorange">F. d'Amore</span>, [N. D'Archivio](https://sites.google.com/view/niccolo-darchivio/home), [G. Giakkoupis](https://sites.google.com/site/ggiakk/home), [E. Natale](https://natema.github.io/ema-webpage/)  
+Under submission. 2025   
+[Preprint](https://arxiv.org/abs/2506.20218)
+
+ --- 
+
 - **<span style="color: #196f3d">New Limits on Distributed Quantum Advantage: Dequantizing Linear Programs</span>**  
 [A. Balliu](https://alkida.net/), [C. Coupette](https://www.coupette.io/), [A. Cruciani](https://antonio-cruciani.github.io/), <span style="color:darkorange">F. d'Amore</span>, [M. Equi](https://massimoequi.github.io/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [D. Olivetti](https://olidennis.github.io/), [J. Suomela](https://jukkasuomela.fi/)  
 Under submission. 2025   
