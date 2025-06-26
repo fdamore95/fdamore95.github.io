@@ -50,6 +50,9 @@ I also work on **theoretical machine learning** and statistics. For instance:
 
 ### Recent news
 
+- Check out our new paper **<span style="color:#196f3d">On the h-majority dynamics with many opinions</span>**  that is now online!
+[Preprint](https://arxiv.org/abs/2506.20218)
+
 - Check out our new paper **<span style="color:#196f3d">New Limits on Distributed Quantum Advantage: Dequantizing Linear Programs</span>**  that is now online!
 [Preprint](https://arxiv.org/abs/2506.07574)
 
