@@ -107,6 +107,13 @@ Presented at TQC 2024 and HALG 2024
 <div style="margin-bottom: 2rem;"></div>
 
 
+- **<span style="color: #196f3d">Distributed Algorithms for Potential Problems </span>**  
+[A. Balliu](https://alkida.net/), [T. Boudier](https://www.gssi.it/people/students/students-computer-science/item/20010-boudier-thomas), <span style="color:darkorange">F. d'Amore</span>, [D. Olivetti](https://olidennis.github.io/), [G. Schmid](https://ac.informatik.uni-freiburg.de/schmid/), [J. Suomela](https://jukkasuomela.fi/)  
+Under submission. 2025   
+[Preprint](https://arxiv.org/abs/2507.12038)
+
+ --- 
+
 - **<span style="color: #196f3d">On the h-majority dynamics with many opinions</span>**  
 <span style="color:darkorange">F. d'Amore</span>, [N. D'Archivio](https://sites.google.com/view/niccolo-darchivio/home), [G. Giakkoupis](https://sites.google.com/site/ggiakk/home), [E. Natale](https://natema.github.io/ema-webpage/)  
 Under submission. 2025   

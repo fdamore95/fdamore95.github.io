@@ -50,13 +50,16 @@ I also work on **theoretical machine learning** and statistics. For instance:
 
 ### Recent news
 
-- Check out our new paper **<span style="color:#196f3d">On the h-majority dynamics with many opinions</span>**  that is now online!
+- Check out our new paper **<span style="color: #196f3d">Distributed Algorithms for Potential Problems</span>** that is now online!
+[Preprint](https://arxiv.org/abs/2507.12038)
+
+- Check out our new paper **<span style="color:#196f3d">On the h-majority dynamics with many opinions</span>** that is now online!
 [Preprint](https://arxiv.org/abs/2506.20218)
 
-- Check out our new paper **<span style="color:#196f3d">New Limits on Distributed Quantum Advantage: Dequantizing Linear Programs</span>**  that is now online!
+- Check out our new paper **<span style="color:#196f3d">New Limits on Distributed Quantum Advantage: Dequantizing Linear Programs</span>** that is now online!
 [Preprint](https://arxiv.org/abs/2506.07574)
 
-- Check out our new paper **<span style="color:#196f3d">Distributed Quantum Advantage in Locally Checkable Labeling Problems</span>**  that is now online!
+- Check out our new paper **<span style="color:#196f3d">Distributed Quantum Advantage in Locally Checkable Labeling Problems</span>** that is now online!
 [Preprint](https://arxiv.org/abs/2504.05191)
 
 - Our paper **<span style="color:#196f3d">Distributed Quantum Advantage for Local Problems</span>** has been accepted at *STOC 2025*!    
