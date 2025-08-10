@@ -10,6 +10,20 @@ nav_order: 3
 <div style="margin-bottom: 2rem;"></div>
 
 
+- **<span style="color: #196f3d">On the h-majority dynamics with many opinions</span>**  
+<span style="color:darkorange">F. d'Amore</span>, [N. D'Archivio](https://sites.google.com/view/niccolo-darchivio/home), [G. Giakkoupis](https://sites.google.com/site/ggiakk/home), [E. Natale](https://natema.github.io/ema-webpage/)  
+*DISC 2025*  
+[Preprint](https://arxiv.org/abs/2506.20218)
+
+ --- 
+
+- **<span style="color: #196f3d">New Limits on Distributed Quantum Advantage: Dequantizing Linear Programs</span>**  
+[A. Balliu](https://alkida.net/), [C. Coupette](https://www.coupette.io/), [A. Cruciani](https://antonio-cruciani.github.io/), <span style="color:darkorange">F. d'Amore</span>, [M. Equi](https://massimoequi.github.io/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [D. Olivetti](https://olidennis.github.io/), [J. Suomela](https://jukkasuomela.fi/)  
+*DISC 2025*  
+[Preprint](https://arxiv.org/abs/2506.07574)
+
+ --- 
+
 - **<span style="color: #196f3d">Distributed Quantum Advantage for Local Problems</span>**  
 [A. Balliu](https://alkida.net/), [S. Brandt](https://scbrandt.github.io/), [X. Coiteux-Roy](https://scholar.google.com/citations?user=FVy9CeAAAAAJ&hl=fr), <span style="color:darkorange">F. d'Amore</span>, [M. Equi](https://massimoequi.github.io/), [F. Le Gall](http://www.francoislegall.com/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [D. Olivetti](https://olidennis.github.io/), [M. Renou](https://marcolivierrenou.com/), [J. Suomela](https://jukkasuomela.fi/), [L. Tendick](https://scholar.google.com/citations?user=oRsE2swAAAAJ&hl=de), [I. Veeren](https://scholar.google.com/citations?user=FBf6xssAAAAJ&hl=en)  
 *STOC 2025*  
@@ -111,20 +125,6 @@ Presented at TQC 2024 and HALG 2024
 [A. Balliu](https://alkida.net/), [T. Boudier](https://www.gssi.it/people/students/students-computer-science/item/20010-boudier-thomas), <span style="color:darkorange">F. d'Amore</span>, [D. Olivetti](https://olidennis.github.io/), [G. Schmid](https://ac.informatik.uni-freiburg.de/schmid/), [J. Suomela](https://jukkasuomela.fi/)  
 Under submission. 2025   
 [Preprint](https://arxiv.org/abs/2507.12038)
-
- --- 
-
-- **<span style="color: #196f3d">On the h-majority dynamics with many opinions</span>**  
-<span style="color:darkorange">F. d'Amore</span>, [N. D'Archivio](https://sites.google.com/view/niccolo-darchivio/home), [G. Giakkoupis](https://sites.google.com/site/ggiakk/home), [E. Natale](https://natema.github.io/ema-webpage/)  
-Under submission. 2025   
-[Preprint](https://arxiv.org/abs/2506.20218)
-
- --- 
-
-- **<span style="color: #196f3d">New Limits on Distributed Quantum Advantage: Dequantizing Linear Programs</span>**  
-[A. Balliu](https://alkida.net/), [C. Coupette](https://www.coupette.io/), [A. Cruciani](https://antonio-cruciani.github.io/), <span style="color:darkorange">F. d'Amore</span>, [M. Equi](https://massimoequi.github.io/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [D. Olivetti](https://olidennis.github.io/), [J. Suomela](https://jukkasuomela.fi/)  
-Under submission. 2025   
-[Preprint](https://arxiv.org/abs/2506.07574)
 
  --- 
 
