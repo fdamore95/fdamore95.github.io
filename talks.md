@@ -32,7 +32,7 @@ nav_order: 4
   [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2024-stoc.pdf) | [Video](https://www.youtube.com/watch?v=BfuyjNj_aKs&t=647s)
 
 - **The Strong Lottery Ticket Hypothesis and the Random Subset Sum Problem**  
-  Invited talk at Workshop ["Kolmogorov Meets Turing"](https://sites.google.com/uniroma1.it/kmt-2024), University of Rome "La Sapienza," Rome, Italy.
+  Invited talk at Workshop ["Kolmogorov Meets Turing"](https://sites.google.com/uniroma1.it/kmt-2024), University of Rome "La Sapienza", Rome, Italy.
 
 - **On Structured Pruning in the Strong Lottery Ticket Hypothesis via Multidimensional Random Subset Sum**  
   Contributed talk at Workshop ["Mathematics for AI and Machine Learning"](https://dec.unibocconi.eu/mathematics-artificial-intelligence-and-machine-learning), Bocconi University, Milan, Italy.  
