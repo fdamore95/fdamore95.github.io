@@ -24,7 +24,7 @@ nav_order: 4
 ## 2024
 
 - **Causal Limits of Distributed Computation**  
-  Invited speaker at ADGA 2024, workshop colocated with DISC 2024, Madrid, Spain.  F
+  Invited speaker at ADGA 2024, workshop colocated with DISC 2024, Madrid, Spain.   
   [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2024-adga.pdf)
 
 - **No Distributed Quantum Advantage for Approximate Graph Coloring**  
