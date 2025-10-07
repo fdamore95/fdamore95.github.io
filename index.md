@@ -50,6 +50,9 @@ I also work on **theoretical machine learning** and statistics. For instance:
 
 ### Recent news
 
+- Our paper **<span style="color:#196f3d">Distributed Quantum Advantage in Locally Checkable Labeling Problems</span>** has been accepted at *SODA 2025*!   
+[Preprint](https://arxiv.org/abs/2504.05191)
+
 - Check out our new paper **<span style="color: #196f3d">Distributed Algorithms for Potential Problems</span>** that is now online!  
 [Preprint](https://arxiv.org/abs/2507.12038)
 
@@ -58,9 +61,6 @@ I also work on **theoretical machine learning** and statistics. For instance:
 
 - Our paper **<span style="color:#196f3d">New Limits on Distributed Quantum Advantage: Dequantizing Linear Programs</span>** has been accepted at *DISC 2025*!   
 [Preprint](https://arxiv.org/abs/2506.07574)
-
-- Check out our new paper **<span style="color:#196f3d">Distributed Quantum Advantage in Locally Checkable Labeling Problems</span>** that is now online!   
-[Preprint](https://arxiv.org/abs/2504.05191)
 
 - Our paper **<span style="color:#196f3d">Distributed Quantum Advantage for Local Problems</span>** has been accepted at *STOC 2025*!    
 [Preprint](https://arxiv.org/abs/2411.03240)

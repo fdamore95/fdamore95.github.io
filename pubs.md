@@ -10,6 +10,14 @@ nav_order: 3
 <div style="margin-bottom: 2rem;"></div>
 
 
+- **<span style="color: #196f3d">Distributed Quantum Advantage in Locally Checkable Labeling Problems</span>**  
+[A. Balliu](https://alkida.net/), [F. Casagrande](https://www.gssi.it/people/students/students-computer-science/item/24583-casagrande-filippo), <span style="color:darkorange">F. d'Amore</span>, [M. Equi](https://massimoequi.github.io/), [B. Keller](https://users.aalto.fi/~kellerb1/), [H. Lievonen](https://henriklievonen.fi/), [D. Olivetti](https://olidennis.github.io/), [G. Schmid](https://ac.informatik.uni-freiburg.de/schmid/), [J. Suomela](https://jukkasuomela.fi/)  
+*SODA 2025*  
+To appear  
+[Preprint](https://arxiv.org/abs/2504.05191)
+
+ --- 
+
 - **<span style="color: #196f3d">On the h-majority dynamics with many opinions</span>**  
 <span style="color:darkorange">F. d'Amore</span>, [N. D'Archivio](https://sites.google.com/view/niccolo-darchivio/home), [G. Giakkoupis](https://sites.google.com/site/ggiakk/home), [E. Natale](https://natema.github.io/ema-webpage/)  
 *DISC 2025*  
@@ -127,13 +135,6 @@ Presented at TQC 2024 and HALG 2024
 [A. Balliu](https://alkida.net/), [T. Boudier](https://www.gssi.it/people/students/students-computer-science/item/20010-boudier-thomas), <span style="color:darkorange">F. d'Amore</span>, [D. Olivetti](https://olidennis.github.io/), [G. Schmid](https://ac.informatik.uni-freiburg.de/schmid/), [J. Suomela](https://jukkasuomela.fi/)  
 Under submission. 2025   
 [Preprint](https://arxiv.org/abs/2507.12038)
-
- --- 
-
-- **<span style="color: #196f3d">Distributed Quantum Advantage in Locally Checkable Labeling Problems</span>**  
-[A. Balliu](https://alkida.net/), [F. Casagrande](https://www.gssi.it/people/students/students-computer-science/item/24583-casagrande-filippo), <span style="color:darkorange">F. d'Amore</span>, [M. Equi](https://massimoequi.github.io/), [B. Keller](https://users.aalto.fi/~kellerb1/), [H. Lievonen](https://henriklievonen.fi/), [D. Olivetti](https://olidennis.github.io/), [G. Schmid](https://ac.informatik.uni-freiburg.de/schmid/), [J. Suomela](https://jukkasuomela.fi/)  
-Under submission. 2025   
-[Preprint](https://arxiv.org/abs/2504.05191)
 
  --- 
 
