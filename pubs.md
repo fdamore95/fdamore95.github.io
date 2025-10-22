@@ -28,7 +28,6 @@ To appear
 - **<span style="color: #196f3d">New Limits on Distributed Quantum Advantage: Dequantizing Linear Programs</span>**  
 [A. Balliu](https://alkida.net/), [C. Coupette](https://www.coupette.io/), [A. Cruciani](https://antonio-cruciani.github.io/), <span style="color:darkorange">F. d'Amore</span>, [M. Equi](https://massimoequi.github.io/), [H. Lievonen](https://henriklievonen.fi/), [A. Modanese](https://augusto.modanese.net/), [D. Olivetti](https://olidennis.github.io/), [J. Suomela](https://jukkasuomela.fi/)  
 *DISC 2025*  
-To appear  
 [Publication](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.DISC.2025.11) | [Preprint](https://arxiv.org/abs/2506.07574)
 
  --- 
