@@ -81,6 +81,7 @@ nav_order: 2
 
 Here I summarize my activity as (sub)reviewer, keeping track of the amount of papers reviewed each year.
 
+- **2026**: STACS (1).
 - **2025**: SIROCCO (1), ICALP (2), PODC (3), SODA (1), DISC (1).
 - **2024**: FORC (1), STOC (1), SICOMP (1).
 - **2023**: PODC (1), Distributed Computing (1), DISC (1), NeurIPS (1).  
