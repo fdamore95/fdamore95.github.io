@@ -52,6 +52,7 @@ nav_order: 2
 
 ## Teaching
 
+- **November 2025**: Ph.D. course on *Algorithmic Frontiers for Big Data* (10 hours), University of Rome "La Sapienza", Rome, Italy.
 - **July 2024**: Ph.D. course on *Causal Limits of Distributed Quantum Computation* (6 hours), Gran Sasso Science Institute (GSSI), L'Aquila, Italy.
 - **February - April 2022**: Teaching practicum (56 hours) for the *Database Course* (PL/SQL) at Institut Universitaire de Technologie, Université Côte d'Azur.
 
