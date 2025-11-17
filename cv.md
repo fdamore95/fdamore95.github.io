@@ -76,7 +76,7 @@ nav_order: 2
 - **January 2024**: Contributed talk at *Mathematics for AI and Machine Learning*, Bocconi University, Milan, Italy.
 - **October 2023**: Organizer of [WAND](https://sites.google.com/view/wand2023), colocated with [DISC 2023](http://www.disc-conference.org/wp/disc2023/), GSSI, L'Aquila, Italy.
 - **February 2023**: Invited participant to [*Research Workshop on Distributed Algorithms*](https://research.cs.aalto.fi/da/rw-dist/), Freiburg University, Freiburg, Germany.
-- **June 2022**: Contributed talk at the *Third Italian Meeting on Probability and Mathematical Statistics*, University of Bologna, Bologna, Italy.
+- **June 2022**: Contributed talk at the [*Third Italian Meeting on Probability and Mathematical Statistics*](https://site.unibo.it/probstat/en), University of Bologna, Bologna, Italy.
 
 ---
 
