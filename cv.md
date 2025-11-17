@@ -67,6 +67,7 @@ nav_order: 2
 
 ## Schools & Workshops
 
+- **October 2025**: Organizer of [WAND](https://sites.google.com/view/wand2025) (Workshop on Analysis of Network Dynamics), colocated with [DISC 2025](https://www.disc-conference.org/wp/disc2025/), Berlin, Germany.
 - **March 2025**: Invited participant to [*Algorithmic tools and their applications in emerging models of computation*](https://shonan.nii.ac.jp/seminars/221/), Shonan Meeting, Shonan Village Center, Japan.
 - **February 2025**: Invited participant to [*Research Workshop on Distributed Algorithms*](https://research.cs.aalto.fi/da/rw-dist/), Freiburg University, Freiburg, Germany.
 - **November 2024**: Organizer of [WAND](https://sites.google.com/view/wand2024) (Workshop on Analysis of Network Dynamics), colocated with [DISC 2024](https://www.disc-conference.org/wp/disc2024/), Madrid, Spain.
