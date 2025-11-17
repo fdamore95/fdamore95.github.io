@@ -67,13 +67,14 @@ nav_order: 2
 
 ## Schools & Workshops
 
-- **February 2025**: Invited participant to *Research Workshop on Distributed Algorithms*, Freiburg University, Freiburg, Germany.
+- **March 2025**: Invited participant to [*Algorithmic tools and their applications in emerging models of computation*](https://shonan.nii.ac.jp/seminars/221/), Shonan Meeting, Shonan Village Center, Japan.
+- **February 2025**: Invited participant to [*Research Workshop on Distributed Algorithms*](https://research.cs.aalto.fi/da/rw-dist/), Freiburg University, Freiburg, Germany.
 - **November 2024**: Organizer of [WAND](https://sites.google.com/view/wand2024) (Workshop on Analysis of Network Dynamics), colocated with [DISC 2024](https://www.disc-conference.org/wp/disc2024/), Madrid, Spain.
 - **October 2024**: Invited talk at [ADGA](https://adga-workshop.org/2024/), colocated with [DISC 2024](https://www.disc-conference.org/wp/disc2024/), Madrid, Spain.
-- **March 2024**: Invited participant to *Research Workshop on Distributed Algorithms*, Gran Sasso Science Institute, L'Aquila, Italy.
+- **March 2024**: Invited participant to [*Research Workshop on Distributed Algorithms*](https://research.cs.aalto.fi/da/rw-dist/), Gran Sasso Science Institute, L'Aquila, Italy.
 - **January 2024**: Contributed talk at *Mathematics for AI and Machine Learning*, Bocconi University, Milan, Italy.
 - **October 2023**: Organizer of [WAND](https://sites.google.com/view/wand2023), colocated with [DISC 2023](http://www.disc-conference.org/wp/disc2023/), GSSI, L'Aquila, Italy.
-- **February 2023**: Invited participant to *Research Workshop on Distributed Algorithms*, Freiburg University, Freiburg, Germany.
+- **February 2023**: Invited participant to [*Research Workshop on Distributed Algorithms*](https://research.cs.aalto.fi/da/rw-dist/), Freiburg University, Freiburg, Germany.
 - **June 2022**: Contributed talk at the *Third Italian Meeting on Probability and Mathematical Statistics*, University of Bologna, Bologna, Italy.
 
 ---
