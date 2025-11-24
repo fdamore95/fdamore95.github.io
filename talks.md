@@ -10,9 +10,13 @@ nav_order: 4
 
 ## 2025
 
-- **Distributed Algorithms for Local Potential Problems**  
-  Invited talk at Workshop ["Helsinki Algorithms & Theory Days"](https://algorithms.fi/theory-days-2025/) 2025, University of Helsinki, Helsinki, Finland.   
-  [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2025-helsinki-theory.pdf)
+- **Limits of Distributed Quantum Computation**
+  GSSI seminar, Gran Sasso Science Institute, L'Aquila, Italy.
+  [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2025-gssi.pdf)
+
+- **Limits of Distributed Quantum Computation**
+  Invited ["NESTiD seminar"](https://nestid.webspace.durham.ac.uk/nestid-seminar/), Durham University, Durham, United Kingdom. 
+  [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2025-durham.pdf)
 
 - **Causal Limits of Distributed Computation**  
   Contributed talk at Workshop ["Young Researchers Forum"](https://sites.google.com/view/youngresearchersforum2025/) 2025, online event.
