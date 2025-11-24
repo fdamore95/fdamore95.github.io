@@ -11,11 +11,11 @@ nav_order: 4
 ## 2025
 
 - **Limits of Distributed Quantum Computation**
-  GSSI seminar, Gran Sasso Science Institute, L'Aquila, Italy.
+  GSSI seminar, Gran Sasso Science Institute, L'Aquila, Italy.   
   [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2025-gssi.pdf)
 
 - **Limits of Distributed Quantum Computation**
-  Invited ["NESTiD seminar"](https://nestid.webspace.durham.ac.uk/nestid-seminar/), Durham University, Durham, United Kingdom. 
+  Invited ["NESTiD seminar"](https://nestid.webspace.durham.ac.uk/nestid-seminar/), Durham University, Durham, United Kingdom.   
   [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2025-durham.pdf)
 
 - **Causal Limits of Distributed Computation**  
