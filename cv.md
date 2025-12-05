@@ -60,6 +60,7 @@ nav_order: 2
 
 ## Awards, Grants, and Scholarships
 
+- **2025**: Recipient of a project funding for young researchers. My research proposal *A Probabilistic Approach to the Analysis of Computational Networks: From Bio-Inspired to Distributed Quantum Systems, and Beyond* was selected for funding under [MUR Decree No. 47/2025](https://www.mur.gov.it/it/atti-e-normativa/decreto-direttoriale-n-47-del-20-2-2025), within the PNRR program financed by the European Union - NextGenerationEU. This scheme is specifically designed for early-career postdoctoral researchers taking responsibility for their first independent research funding. As a result of this award, I hold a two-year postdoctoral research position at the GSSI. 
 - **2020**: Winner of [Borsa di Perfezionamento all'Estero](https://www.uniroma1.it/it/pagina/borse-di-perfezionamento-allestero), Università di Roma \"La Sapienza\".
 - **2016 & 2019**: Two-time winner of a merit-based scholarship, Department of Mathematics, Università di Roma \"La Sapienza\".
 
