@@ -84,7 +84,7 @@ Presented at TQC 2024 and HALG 2024
 
  --- 
 
-- **<span style="color: #196f3d">Revisiting the Random Subset Sum problem</span>**  
+- **<span style="color: #196f3d">Revisiting the Random Subset Sum Problem</span>**  
 [A. Da Cunha](https://arthurwalraven.github.io/), <span style="color:darkorange">F. d'Amore</span>, [F. Giroire](https://www-sop.inria.fr/members/Frederic.Giroire/), [H. Lesfari](https://scholar.google.com/citations?user=c8rrRQoAAAAJ&hl=en), [E. Natale](https://natema.github.io/ema-webpage/), [L. Viennot](https://who.rocq.inria.fr/Laurent.Viennot/)  
 *ESA 2023*  
 [Publication](https://drops.dagstuhl.de/opus/volltexte/2023/18690/) | [Preprint](https://arxiv.org/abs/2204.13929)
@@ -105,7 +105,7 @@ Presented at TQC 2024 and HALG 2024
 
  --- 
 
-- **<span style="color: #196f3d">Planning with biological neurons synapses</span>**  
+- **<span style="color: #196f3d">Planning with biological neurons and synapses</span>**  
 <span style="color:darkorange">F. d'Amore</span>, [D. Mitropolsky](https://dmitropolsky.github.io/), [P. Crescenzi](https://www.pilucrescenzi.it/), [E. Natale](https://natema.github.io/ema-webpage/), [C. Papadimitriou](https://www.engineering.columbia.edu/faculty/christos-papadimitriou)  
 *AAAI 2022*  
 [Publication](https://ojs.aaai.org/index.php/AAAI/article/view/19875) | [Preprint](https://arxiv.org/abs/2112.08186)
@@ -137,9 +137,9 @@ To be submitted. 2025
 
  --- 
 
-- **<span style="color: #196f3d">Distributed Algorithms for Potential Problems </span>**  
+- **<span style="color: #196f3d">Distributed Algorithms for Potential Problems</span>**  
 [A. Balliu](https://alkida.net/), [T. Boudier](https://www.gssi.it/people/students/students-computer-science/item/20010-boudier-thomas), <span style="color:darkorange">F. d'Amore</span>, [D. Olivetti](https://olidennis.github.io/), [G. Schmid](https://ac.informatik.uni-freiburg.de/schmid/), [J. Suomela](https://jukkasuomela.fi/)  
-To be submitted. 2025   
+Under submission. 2025   
 [Preprint](https://arxiv.org/abs/2507.12038)
 
  --- 
