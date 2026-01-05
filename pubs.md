@@ -10,6 +10,13 @@ nav_order: 3
 <div style="margin-bottom: 2rem;"></div>
 
 
+- **<span style="color: #196f3d">Survival in infants with trisomy 18, palliative care and ethical reflections: a single center considerations</span>**  
+[S. Caggiano](https://www.researchgate.net/profile/Serena-Caggiano), S. Persia, <span style="color:darkorange">F. d'Amore</span>, [M. Macchiaiolo](https://scholar.google.com/citations?user=Q2ayfy0AAAAJ&hl=it), M. Fornari, V. Clemente, [M. Paglietti](https://www.researchgate.net/profile/Maria-Paglietti), [A. Schiavino](https://www.researchgate.net/profile/Alessandra-Schiavino), [G. Butera](https://scholar.google.com/citations?user=crmaU9cAAAAJ&hl=en), S. Filippelli, [L. Zucaro](https://www.researchgate.net/profile/Luigi-Zucaro-2), [R. Cutrera](https://scholar.google.com/citations?user=1-5P9_8AAAAJ&hl=it)  
+*Italian Journal of Pediatrics 2026*  
+[Publication](https://link.springer.com/article/10.1186/s13052-025-02181-7)
+
+ --- 
+
 - **<span style="color: #196f3d">Distributed Quantum Advantage in Locally Checkable Labeling Problems</span>**  
 [A. Balliu](https://alkida.net/), [F. Casagrande](https://www.gssi.it/people/students/students-computer-science/item/24583-casagrande-filippo), <span style="color:darkorange">F. d'Amore</span>, [M. Equi](https://massimoequi.github.io/), [B. Keller](https://users.aalto.fi/~kellerb1/), [H. Lievonen](https://henriklievonen.fi/), [D. Olivetti](https://olidennis.github.io/), [G. Schmid](https://ac.informatik.uni-freiburg.de/schmid/), [J. Suomela](https://jukkasuomela.fi/)  
 *SODA 2026*  
