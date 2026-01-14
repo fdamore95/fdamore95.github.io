@@ -20,8 +20,8 @@ nav_order: 3
 - **<span style="color: #196f3d">Distributed Quantum Advantage in Locally Checkable Labeling Problems</span>**  
 [A. Balliu](https://alkida.net/), [F. Casagrande](https://www.gssi.it/people/students/students-computer-science/item/24583-casagrande-filippo), <span style="color:darkorange">F. d'Amore</span>, [M. Equi](https://massimoequi.github.io/), [B. Keller](https://users.aalto.fi/~kellerb1/), [H. Lievonen](https://henriklievonen.fi/), [D. Olivetti](https://olidennis.github.io/), [G. Schmid](https://ac.informatik.uni-freiburg.de/schmid/), [J. Suomela](https://jukkasuomela.fi/)  
 *SODA 2026*  
-To appear. Also accepted at QIP 2026 as a joint version with "Distributed Quantum Advantage for Local Problems"  
-[Preprint](https://arxiv.org/abs/2504.05191)
+Accepted at QIP 2026 as a joint version with "Distributed Quantum Advantage for Local Problems"  
+[Publication](https://epubs.siam.org/doi/10.1137/1.9781611978971.49) | [Preprint](https://arxiv.org/abs/2504.05191)
 
  --- 
 
