@@ -139,7 +139,7 @@ Presented at TQC 2024 and HALG 2024
 
 - **<span style="color: #196f3d">New Hardness Results for the LOCAL Model via a Simple Self-Reduction</span>**  
 [A. Balliu](https://alkida.net/), [F. Casagrande](https://www.gssi.it/people/students/students-computer-science/item/24583-casagrande-filippo), <span style="color:darkorange">F. d'Amore</span>, [D. Olivetti](https://olidennis.github.io/)  
-To be submitted. 2025   
+Under submission. 2025   
 [Preprint](https://arxiv.org/abs/2510.19972)
 
  --- 
