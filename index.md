@@ -50,17 +50,17 @@ I also work on **theoretical machine learning** and statistics. For instance:
 
 ### Recent news
 
-- Check out our new paper **<span style="color: #196f3d">DéjàVu: A Minimalistic Mechanism for Distributed Plurality Consensus</span>** that is now online!  
-[Preprint](https://arxiv.org/abs/2604.03648)
+- Our paper **<span style="color: #196f3d">Distributed Algorithms for Potential Problems</span>** has been accepted at *PODC 2026*! 
+[Preprint](https://arxiv.org/abs/2507.12038)
 
-- Check out our new paper **<span style="color: #196f3d">New Hardness Results for the LOCAL Model via a Simple Self-Reduction</span>** that is now online!  
+- Our paper **<span style="color: #196f3d">New Hardness Results for the LOCAL Model via a Simple Self-Reduction</span>** has been accepted at *PODC 2026*!  
 [Preprint](https://arxiv.org/abs/2510.19972)
+
+- Our paper **<span style="color: #196f3d">Brief Announcement: DéjàVu: A Minimalistic Mechanism for Distributed Plurality Consensus</span>** has been accepted at *PODC 2026*!
+[Preprint](https://arxiv.org/abs/2604.03648)
 
 - Our paper **<span style="color:#196f3d">Distributed Quantum Advantage in Locally Checkable Labeling Problems</span>** has been accepted at *SODA 2026*!   
 [Preprint](https://arxiv.org/abs/2504.05191)
-
-- Check out our new paper **<span style="color: #196f3d">Distributed Algorithms for Potential Problems</span>** that is now online!  
-[Preprint](https://arxiv.org/abs/2507.12038)
 
 - Our paper **<span style="color:#196f3d">On the h-majority dynamics with many opinions</span>** has been accepted at *DISC 2025*!   
 [Preprint](https://arxiv.org/abs/2506.20218)
