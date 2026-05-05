@@ -83,8 +83,8 @@ nav_order: 2
 
 ## Evaluation Committees
 
-- **2026**: Member of the Evaluation Committee, Chasing Science scholarship program for Master’s students, Gran Sasso Science Institute, SAFI3 project, AY 2026/2027.
-- **2025**: Member of the Evaluation Committee, Chasing Science scholarship program for Master’s students, Gran Sasso Science Institute, SAFI3 project, AY 2025/2026.
+- **2026**: Member of the Evaluation Committee, [*Chasing Science scholarship program for Master’s students*](https://amministrazionetrasparente.gssi.it/page/5/details/18642/dr-emanazione-procedura-selettiva-chasing-science-anno-2026-aa-20262027-per-lassegnazione-di-16-borse-di-studio-nellambito-del-progetto-safi3-del-gssi.html), Gran Sasso Science Institute, SAFI3 project, AY 2026/2027.
+- **2025**: Member of the Evaluation Committee, [*Chasing Science scholarship program for Master’s students*](https://amministrazionetrasparente.gssi.it/page/5/details/7061/procedura-selettiva-per-lassegnazione-di-12-borse-di-studio-nellambito-del-progetto-safi3-e-del-progetto-pilota-del-gssi-bando-dr-n-1022025.html), Gran Sasso Science Institute, SAFI3 project, AY 2025/2026.
 
 ---
 
