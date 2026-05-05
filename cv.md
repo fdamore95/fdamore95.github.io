@@ -81,6 +81,13 @@ nav_order: 2
 
 ---
 
+## Evaluation Committees
+
+- **2026**: Member of the Evaluation Committee, Chasing Science scholarship program for Master’s students, Gran Sasso Science Institute, SAFI3 project, AY 2026/2027.
+- **2025**: Member of the Evaluation Committee, Chasing Science scholarship program for Master’s students, Gran Sasso Science Institute, SAFI3 project, AY 2025/2026.
+
+---
+
 ## Review Activity
 
 Here I summarize my activity as (sub)reviewer, keeping track of the amount of papers reviewed each year.
@@ -92,3 +99,4 @@ Here I summarize my activity as (sub)reviewer, keeping track of the amount of pa
 - **2022**: AAAI (2), PODC (1), SAND (1).  
 - **2021**: PODC (1), SEA (1).  
 - **2020**: OPODIS (1), ACM Transactions on Algorithms (1).
+
