@@ -12,22 +12,22 @@ nav_order: 3
 
 - **<span style="color: #196f3d">Distributed Algorithms for Potential Problems</span>**  
 [A. Balliu](https://alkida.net/), [T. Boudier](https://www.gssi.it/people/students/students-computer-science/item/20010-boudier-thomas), <span style="color:darkorange">F. d'Amore</span>, [F. Kuhn](https://ac.informatik.uni-freiburg.de/kuhn/), [D. Olivetti](https://olidennis.github.io/), [G. Schmid](https://ac.informatik.uni-freiburg.de/schmid/), [J. Suomela](https://jukkasuomela.fi/)  
-*To appear at PODC 2026*  
-[Preprint](https://arxiv.org/abs/2507.12038)
+*PODC 2026*  
+[Publication](https://dl.acm.org/doi/10.1145/3796701.3815928) | [Preprint](https://arxiv.org/abs/2507.12038)
 
  --- 
 
 - **<span style="color: #196f3d">New Hardness Results for the LOCAL Model via a Simple Self-Reduction</span>**  
 [A. Balliu](https://alkida.net/), [F. Casagrande](https://www.gssi.it/people/students/students-computer-science/item/24583-casagrande-filippo), <span style="color:darkorange">F. d'Amore</span>, [D. Olivetti](https://olidennis.github.io/)  
-*To appear at PODC 2026*  
-[Preprint](https://arxiv.org/abs/2510.19972)
+*PODC 2026*  
+[Publication](https://dl.acm.org/doi/10.1145/3796701.3815938) | [Preprint](https://arxiv.org/abs/2510.19972)
 
  --- 
 
 - **<span style="color: #196f3d">Brief Announcement: DéjàVu: A Minimalistic Mechanism for Distributed Plurality Consensus</span>**  
 <span style="color:darkorange">F. d'Amore</span>, [N. D'Archivio](https://sites.google.com/view/niccolo-darchivio/home), [G. Giakkoupis](https://sites.google.com/site/ggiakk/home), [F. Giroire](https://www-sop.inria.fr/members/Frederic.Giroire/), [E. Natale](https://natema.github.io/ema-webpage/)  
-*To appear at PODC 2026*  
-[Preprint](https://arxiv.org/abs/2604.03648)
+*PODC 2026*  
+[Publication](https://dl.acm.org/doi/10.1145/3796701.3815926) | [Preprint](https://arxiv.org/abs/2604.03648)
 
  --- 
 
