@@ -7,6 +7,19 @@ nav_order: 4
 # Talks & Presentations
 
 ---
+## 2026
+- **Distributed Algorithms for Potential Problems**
+  Paper presentation at PODC 2026.   
+  [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2026-podc.pdf)
+
+- **Distributed Algorithms for Potential Problems**
+  Contributed seminar at [*Workshop on Foundations of Distributed and Parallel Graph Algorithms*](https://warwick.ac.uk/fac/cross_fac/dimap/events/venice-2026-distributed/), University of Warwick, Venice, Italy.   
+  [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2026-venice.pdf)
+
+- **Limits of Distributed Quantum Computing**
+  Invited talk at IRIF, Paris, France.   
+  [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2026-irif.pdf)
+
 
 ## 2025
 

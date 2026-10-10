@@ -52,6 +52,7 @@ nav_order: 2
 
 ## Teaching
 
+- **June 2026**: Ph.D. course on *Distributed Quantum Computing* (10 hours), Gran Sasso Science Institute (GSSI), L'Aquila, Italy.
 - **November 2025**: Ph.D. course on *Algorithmic Frontiers for Big Data* (10 hours), University of Rome "La Sapienza", Rome, Italy.
 - **July 2024**: Ph.D. course on *Causal Limits of Distributed Quantum Computation* (6 hours), Gran Sasso Science Institute (GSSI), L'Aquila, Italy.
 - **February - April 2022**: Teaching practicum (56 hours) for the *Database Course* (PL/SQL) at Institut Universitaire de Technologie, Université Côte d'Azur.
@@ -68,14 +69,17 @@ nav_order: 2
 
 ## Schools & Workshops
 
-- **October 2025**: Organizer of [WAND](https://sites.google.com/view/wand2025) (Workshop on Analysis of Network Dynamics), colocated with [DISC 2025](https://www.disc-conference.org/wp/disc2025/), Berlin, Germany.
+- **November 2026**: Co-organizer of [WAND](https://sites.google.com/view/wand-2026/home) (Workshop on Analysis of Network Dynamics), colocated with [DISC 2026](https://www.disc-conference.org/wp/disc2026/), Rome, Italy.
+- **May 2026**: Invited participant to [*Workshop on Foundations of Distributed and Parallel Graph Algorithms*](https://warwick.ac.uk/fac/cross_fac/dimap/events/venice-2026-distributed/), Warwick's University, Venice, Italy.
+- **March 2026**: Invited participant to [*Research Workshop on Distributed Algorithms*](https://research.cs.aalto.fi/da/rw-dist/),  Gran Sasso Science Institute, L'Aquila, Italy.
+- **October 2025**: Co-chair and co-organizer of [WAND](https://sites.google.com/view/wand2025) (Workshop on Analysis of Network Dynamics), colocated with [DISC 2025](https://www.disc-conference.org/wp/disc2025/), Berlin, Germany.
 - **March 2025**: Invited participant to [*Algorithmic tools and their applications in emerging models of computation*](https://shonan.nii.ac.jp/seminars/221/), Shonan Meeting, Shonan Village Center, Japan.
 - **February 2025**: Invited participant to [*Research Workshop on Distributed Algorithms*](https://research.cs.aalto.fi/da/rw-dist/), Freiburg University, Freiburg, Germany.
-- **November 2024**: Organizer of [WAND](https://sites.google.com/view/wand2024) (Workshop on Analysis of Network Dynamics), colocated with [DISC 2024](https://www.disc-conference.org/wp/disc2024/), Madrid, Spain.
+- **November 2024**: Co-chair and co-organizer of [WAND](https://sites.google.com/view/wand2024) (Workshop on Analysis of Network Dynamics), colocated with [DISC 2024](https://www.disc-conference.org/wp/disc2024/), Madrid, Spain.
 - **October 2024**: Invited talk at [ADGA](https://adga-workshop.org/2024/), colocated with [DISC 2024](https://www.disc-conference.org/wp/disc2024/), Madrid, Spain.
 - **March 2024**: Invited participant to [*Research Workshop on Distributed Algorithms*](https://research.cs.aalto.fi/da/rw-dist/), Gran Sasso Science Institute, L'Aquila, Italy.
 - **January 2024**: Contributed talk at *Mathematics for AI and Machine Learning*, Bocconi University, Milan, Italy.
-- **October 2023**: Organizer of [WAND](https://sites.google.com/view/wand2023), colocated with [DISC 2023](http://www.disc-conference.org/wp/disc2023/), GSSI, L'Aquila, Italy.
+- **October 2023**: Co-chair and co-organizer of [WAND](https://sites.google.com/view/wand2023), colocated with [DISC 2023](http://www.disc-conference.org/wp/disc2023/), GSSI, L'Aquila, Italy.
 - **February 2023**: Invited participant to [*Research Workshop on Distributed Algorithms*](https://research.cs.aalto.fi/da/rw-dist/), Freiburg University, Freiburg, Germany.
 - **June 2022**: Contributed talk at the [*Third Italian Meeting on Probability and Mathematical Statistics*](https://site.unibo.it/probstat/en), University of Bologna, Bologna, Italy.
 
@@ -88,10 +92,15 @@ nav_order: 2
 
 ---
 
+## Program Committee
+
+- **2027**: ICDCN, SIROCCO
+
 ## Review Activity
 
 Here I summarize my activity as (sub)reviewer, keeping track of the amount of papers reviewed each year.
 
+- **2027**: ICDCN (3).
 - **2026**: STACS (1), SIROCCO (2), FOCS (1), PODC (2), ICALP (1), Theoretical Computer Science (1), ACM Transactions on Algorithms (1).
 - **2025**: SIROCCO (1), ICALP (2), PODC (3), SODA (1), DISC (1).
 - **2024**: FORC (1), STOC (1), SICOMP (1).
