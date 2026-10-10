@@ -50,10 +50,10 @@ I also work on **theoretical machine learning** and statistics. For instance:
 
 ### Recent news
 
-- Check out our new paper **<span style="color: #196f3d">Distributed Lower Bounds via Automatic Self-Reduction</span>** now on ArXiv! 
+- Check out our new paper **<span style="color: #196f3d">Distributed Lower Bounds via Automatic Self-Reduction</span>** now on ArXiv!   
 [Preprint](https://arxiv.org/abs/2609.34753)
 
-- Our paper **<span style="color: #196f3d">Brief Announcement: Superlogarithmic Gap Result for LCLs on Trees in Quantum-LOCAL</span>** has been accepted at *DISC 2026*! 
+- Our paper **<span style="color: #196f3d">Brief Announcement: Superlogarithmic Gap Result for LCLs on Trees in Quantum-LOCAL</span>** has been accepted at *DISC 2026*!   
 [Preprint](https://arxiv.org/abs/2608.16854)
 
 - Our paper **<span style="color: #196f3d">Distributed Algorithms for Potential Problems</span>** has been accepted at *PODC 2026*! 
