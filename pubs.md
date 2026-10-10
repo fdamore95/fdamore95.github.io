@@ -10,6 +10,14 @@ nav_order: 3
 <div style="margin-bottom: 2rem;"></div>
 
 
+- **<span style="color: #196f3d">Brief Announcement: Superlogarithmic Gap Result for LCLs on Trees in Quantum-LOCAL</span>**  
+<span style="color:darkorange">F. d'Amore</span>, [H. Lievonen](https://henriklievonen.fi/)  
+*DISC 2026*  
+To appear  
+[Preprint](https://arxiv.org/abs/2608.16854)
+
+ --- 
+
 - **<span style="color: #196f3d">Distributed Algorithms for Potential Problems</span>**  
 [A. Balliu](https://alkida.net/), [T. Boudier](https://www.gssi.it/people/students/students-computer-science/item/20010-boudier-thomas), <span style="color:darkorange">F. d'Amore</span>, [F. Kuhn](https://ac.informatik.uni-freiburg.de/kuhn/), [D. Olivetti](https://olidennis.github.io/), [G. Schmid](https://ac.informatik.uni-freiburg.de/schmid/), [J. Suomela](https://jukkasuomela.fi/)  
 *PODC 2026*  
@@ -157,6 +165,13 @@ Presented at TQC 2024 and HALG 2024
 
 <div style="margin-bottom: 2rem;"></div>
 
+
+- **<span style="color: #196f3d">Distributed Lower Bounds via Automatic Self-Reduction</span>**  
+[A. Balliu](https://alkida.net/), <span style="color:darkorange">F. d'Amore</span>, [D. Olivetti](https://olidennis.github.io/)  
+To be submitted. 2026   
+[Preprint](https://arxiv.org/abs/2609.34753)
+
+ --- 
 
 - **<span style="color: #196f3d">On the Collective Behaviors of Bio-Inspired Distributed Systems</span>**  
 <span style="color:darkorange">F. d'Amore</span>  
