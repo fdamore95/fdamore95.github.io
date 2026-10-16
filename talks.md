@@ -9,7 +9,7 @@ nav_order: 4
 ---
 ## 2026
 - **Distributed Algorithms for Potential Problems**   
-  Paper presentation at PODC 2026.   
+  Paper presentation at PODC 2026, London, United Kingdom.
   [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2026-podc.pdf)
 
 - **Distributed Algorithms for Potential Problems**   
