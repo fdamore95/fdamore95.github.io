@@ -13,7 +13,7 @@ nav_order: 4
   [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2026-podc.pdf)
 
 - **Distributed Algorithms for Potential Problems**   
-  Contributed seminar at [*Workshop on Foundations of Distributed and Parallel Graph Algorithms*](https://warwick.ac.uk/fac/cross_fac/dimap/events/venice-2026-distributed/), University of Warwick, Venice, Italy.   
+  Contributed seminar at ["Workshop on Foundations of Distributed and Parallel Graph Algorithms"](https://warwick.ac.uk/fac/cross_fac/dimap/events/venice-2026-distributed/), University of Warwick, Venice, Italy.   
   [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2026-venice.pdf)
 
 - **Limits of Distributed Quantum Computing**   
