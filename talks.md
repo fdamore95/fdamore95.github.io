@@ -87,7 +87,7 @@ nav_order: 4
   [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2022-aalto-RRS.pdf)
 
 - **Phase Transition of the 3-Majority Dynamics with Uniform Communication Noise**  
-  Invited talk at the [Third Italian Meeting on Probability and Mathematical Statistics 2022](https://site.unibo.it/probstat/en/about-1/general-information), Bologna, Italy.  
+  Invited talk at the ["Third Italian Meeting on Probability and Mathematical Statistics 2022"](https://site.unibo.it/probstat/en/about-1/general-information), Bologna, Italy.  
   [Slides](https://github.com/fdamore95/fdamore95.github.io/blob/main/assets/pdfs/2022-italian-meeting-prob-bologna.pdf)
 
 - **Search via Parallel Lévy Walks on ℤ²**  
