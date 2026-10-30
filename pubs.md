@@ -40,7 +40,7 @@ To appear
  --- 
 
 - **<span style="color: #196f3d">Survival in infants with trisomy 18, palliative care and ethical reflections: a single center considerations</span>**  
-[S. Caggiano](https://www.researchgate.net/profile/Serena-Caggiano), S. Persia, <span style="color:darkorange">F. d'Amore</span>, [M. Macchiaiolo](https://scholar.google.com/citations?user=Q2ayfy0AAAAJ&hl=it), M. Fornari, V. Clemente, [M. Paglietti](https://www.researchgate.net/profile/Maria-Paglietti), [A. Schiavino](https://www.researchgate.net/profile/Alessandra-Schiavino), [G. Butera](https://scholar.google.com/citations?user=crmaU9cAAAAJ&hl=en), S. Filippelli, [L. Zucaro](https://www.researchgate.net/profile/Luigi-Zucaro-2), [R. Cutrera](https://scholar.google.com/citations?user=1-5P9_8AAAAJ&hl=it)  
+[S. Caggiano](https://www.researchgate.net/profile/Serena-Caggiano), [S. Persia](https://sites.google.com/view/studiopediatricocelano/), <span style="color:darkorange">F. d'Amore</span>, [M. Macchiaiolo](https://scholar.google.com/citations?user=Q2ayfy0AAAAJ&hl=it), M. Fornari, V. Clemente, [M. Paglietti](https://www.researchgate.net/profile/Maria-Paglietti), [A. Schiavino](https://www.researchgate.net/profile/Alessandra-Schiavino), [G. Butera](https://scholar.google.com/citations?user=crmaU9cAAAAJ&hl=en), S. Filippelli, [L. Zucaro](https://www.researchgate.net/profile/Luigi-Zucaro-2), [R. Cutrera](https://scholar.google.com/citations?user=1-5P9_8AAAAJ&hl=it)  
 *Italian Journal of Pediatrics 2026*  
 [Publication](https://link.springer.com/article/10.1186/s13052-025-02181-7)
 
@@ -165,6 +165,13 @@ Presented at TQC 2024 and HALG 2024
 
 <div style="margin-bottom: 2rem;"></div>
 
+
+- **<span style="color: #196f3d">Nearly-Optimal Time-Sample Trade-off in Consensus Dynamics</span>**  
+<span style="color:darkorange">F. d'Amore</span>, [J. Rybicki](https://rybicki.github.io/), [N. Shimizu](https://sites.google.com/view/nobutaka-shimizu/home), [T. Shiraga](https://sites.google.com/view/takeharu-shiraga/takeharu-shiraga), [R. Vacus](https://robinvacus.github.io/)  
+To be submitted. 2026   
+[Preprint](https://arxiv.org/abs/2610.40562)
+
+ --- 
 
 - **<span style="color: #196f3d">Distributed Lower Bounds via Automatic Self-Reduction</span>**  
 [A. Balliu](https://alkida.net/), <span style="color:darkorange">F. d'Amore</span>, [D. Olivetti](https://olidennis.github.io/)  

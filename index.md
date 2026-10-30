@@ -48,13 +48,18 @@ I also work on **theoretical machine learning** and statistics. For instance:
 
 ---
 
-### Recent news
+### Recent news (2026-2027)
+
+- Check out our new paper **<span style="color: #196f3d">Nearly-Optimal Time-Sample Trade-off in Consensus Dynamics</span>** now on ArXiv!   
+[Preprint](https://arxiv.org/abs/2610.40562)
 
 - Check out our new paper **<span style="color: #196f3d">Distributed Lower Bounds via Automatic Self-Reduction</span>** now on ArXiv!   
 [Preprint](https://arxiv.org/abs/2609.34753)
 
 - Our paper **<span style="color: #196f3d">Brief Announcement: Superlogarithmic Gap Result for LCLs on Trees in Quantum-LOCAL</span>** has been accepted at *DISC 2026*!   
 [Preprint](https://arxiv.org/abs/2608.16854)
+
+- I will be serving at the PC of [ICDCN 2027](https://cs3-lab.github.io/icdcn/index.html) and [SIROCCO 2027](https://cyprusconferences.org/sirocco2027/)!
 
 - Our paper **<span style="color: #196f3d">Distributed Algorithms for Potential Problems</span>** has been accepted at *PODC 2026*!   
 [Preprint](https://arxiv.org/abs/2507.12038)
@@ -68,17 +73,6 @@ I also work on **theoretical machine learning** and statistics. For instance:
 - Our paper **<span style="color:#196f3d">Distributed Quantum Advantage in Locally Checkable Labeling Problems</span>** has been accepted at *SODA 2026*!   
 [Preprint](https://arxiv.org/abs/2504.05191)
 
-- Our paper **<span style="color:#196f3d">On the h-majority dynamics with many opinions</span>** has been accepted at *DISC 2025*!   
-[Preprint](https://arxiv.org/abs/2506.20218)
-
-- Our paper **<span style="color:#196f3d">New Limits on Distributed Quantum Advantage: Dequantizing Linear Programs</span>** has been accepted at *DISC 2025*!   
-[Preprint](https://arxiv.org/abs/2506.07574)
-
-- Our paper **<span style="color:#196f3d">Distributed Quantum Advantage for Local Problems</span>** has been accepted at *STOC 2025*!    
-[Preprint](https://arxiv.org/abs/2411.03240)
-
-- Our paper **<span style="color:#196f3d">Online Locality Meets Distributed Quantum Computing</span>** has been accepted at *STOC 2025*!    
-[Preprint](https://arxiv.org/abs/2403.01903)
 
 ---
 
